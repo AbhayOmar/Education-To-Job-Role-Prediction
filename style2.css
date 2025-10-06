@@ -1,0 +1,220 @@
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  background: #eef1f7;
+  color: #333;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 240px;
+  background: linear-gradient(180deg, #1f2a40, #3a4b6c);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  box-shadow: 4px 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.sidebar a {
+  padding: 15px 25px;
+  margin: 5px 10px;
+  border-radius: 8px;
+  color: #ddd;
+  text-decoration: none;
+  font-size: 15px;
+  display: block;
+  transition: all 0.3s ease;
+}
+
+.sidebar a:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+}
+
+.sidebar a.active {
+  background: #28a745;
+  color: #fff;
+  font-weight: bold;
+}
+
+/* Container */
+.container {
+  flex: 1;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.card {
+  background: #fff;
+  padding: 30px 35px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 700px;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 0.4s ease-in-out;
+}
+
+/* Page Titles */
+h2 {
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #1f2a40;
+  text-align: center;
+  border-bottom: 2px solid #eee;
+  padding-bottom: 10px;
+}
+
+/* Forms */
+form input, form textarea, form select {
+  width: 100%;
+  padding: 12px 14px;
+  margin: 12px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 15px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+form input:focus, form textarea:focus, form select:focus {
+  border-color: #28a745;
+  box-shadow: 0 0 5px rgba(40, 167, 69, 0.3);
+  outline: none;
+}
+
+/* Buttons */
+button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  background: linear-gradient(135deg, #28a745, #218838);
+  border: none;
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 10px rgba(40, 167, 69, 0.3);
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+table th, table td {
+  padding: 14px;
+  text-align: center;
+  font-size: 14px;
+}
+
+table th {
+  background: #1f2a40;
+  color: white;
+}
+
+table tr:nth-child(even) {
+  background: #f9fafc;
+}
+
+/* Charts Layout */
+.charts {
+  display: flex;
+  gap: 20px;
+  margin-top: 25px;
+  flex-wrap: wrap;
+}
+
+.chart {
+  flex: 1;
+  min-width: 300px;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Compact Logout Button */
+.logout-btn {
+  display: block;
+  width: 120px;       /* shorter length */
+  margin: 10px 20px;  /* spacing from sidebar links */
+  padding: 6px 10px;  /* smaller padding */
+  background: #e74c3c;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-size: 13px;
+  text-align: center;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.logout-btn:hover {
+  background: #c0392b;
+}
+
+/* History Page Layout Fixes */
+.history-container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.history-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.history-container table {
+  margin: 0 auto 30px auto; /* center table & add spacing below */
+}
+
+/* Charts stacked & responsive */
+.charts {
+  display: flex;
+  flex-direction: column;  /* stack vertically */
+  align-items: center;     /* center align */
+  gap: 25px;               /* spacing between charts */
+  margin-top: 25px;
+}
+
+.chart {
+  width: 100%;
+  max-width: 600px;   /* control maximum width */
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+/* Make charts responsive */
+.chart canvas {
+  width: 100% !important;
+  height: auto !important;
+}

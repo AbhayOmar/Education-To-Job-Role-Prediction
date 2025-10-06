@@ -1,0 +1,222 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Add New Prediction</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+  <div class="sidebar">
+    <a href="profile.html">Profile Info</a>
+    <a href="history.html">Prediction History</a>
+    <a href="prediction.html" class="active">Add New Prediction</a>
+    <button class="logout-btn" id="logoutBtn">Logout</button>
+  </div>
+
+  <div id="predictionResult" style="margin:20px;"></div>
+
+  //Changed from <form> to <div> 
+  <div id="predictionForm">
+    <input type="text" id="cgpa" placeholder="CGPA" required>
+    <input type="text" id="degree" placeholder="Degree" required>
+    <input type="text" id="major" placeholder="Major" required>
+    <input type="text" id="skills" placeholder="Skills (comma separated)" required>
+    <input type="text" id="certifications" placeholder="Certifications (comma separated)">
+    <input type="text" id="experience" placeholder="Experience (years)" required>
+    <input type="text" id="industry" placeholder="Industry Preference" required>
+    <input type="text" id="employed" placeholder="Employed (yes/no)" required>
+    <button type="button" id="predictBtn">Predict</button>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const token = localStorage.getItem("token");
+      const email = localStorage.getItem("userEmail");
+      if (!token || !email) {
+        window.location.href = "login.html";
+        return;
+      }
+
+      document.getElementById("logoutBtn").addEventListener("click", () => {
+        localStorage.removeItem("token");
+        localStorage.removeItem("userEmail");
+        window.location.href = "login.html";
+      });
+
+      const resultContainer = document.getElementById("predictionResult");
+      const predictBtn = document.getElementById("predictBtn");
+
+      predictBtn.addEventListener("click", async (e) => {
+        e.preventDefault(); // stop any accidental form submit
+        resultContainer.innerHTML = "<p>Loading prediction...</p>";
+
+        const data = {
+          CGPA: parseFloat(document.getElementById("cgpa").value),
+          Degree: document.getElementById("degree").value.trim(),
+          Major: document.getElementById("major").value.trim(),
+          Skills: document.getElementById("skills").value
+            ? document.getElementById("skills").value.split(",").map(s => s.trim())
+            : [],
+          Certifications: document.getElementById("certifications").value
+            ? document.getElementById("certifications").value.split(",").map(c => c.trim())
+            : [],
+          Experience: parseInt(document.getElementById("experience").value),
+          IndustryPreference: document.getElementById("industry").value.trim(),
+          Employed: document.getElementById("employed").value.trim()
+        };
+
+        try {
+          const res = await fetch("http://localhost:5000/predict", {
+            method: "POST",
+            headers: { 
+              "Content-Type": "application/json",
+              "Authorization": `Bearer ${token}`
+            },
+            body: JSON.stringify(data)
+          });
+
+          const result = await res.json();
+          let predictedRole = result.predictedRole || null;
+
+          if (res.ok && predictedRole) {
+            resultContainer.innerHTML = `
+              <div style="padding:15px; border:1px solid #3498db; border-radius:8px; background:#ecf6fd;">
+                <h3>Prediction Result</h3>
+                <p><strong>Predicted Job Role:</strong> ${predictedRole}</p>
+                <p><strong>Skills:</strong> ${data.Skills.join(", ")}</p>
+                <p><strong>Certifications:</strong> ${data.Certifications.join(", ") || "None"}</p>
+                <p><strong>Industry:</strong> ${data.IndustryPreference}</p>
+                <p><strong>Employed:</strong> ${data.Employed}</p>
+              </div>
+            `;
+          } else {
+            resultContainer.innerHTML = `<p style="color:red;">Prediction failed. Please try again.</p>`;
+          }
+        } catch (err) {
+          console.error(err);
+          resultContainer.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+        }
+      });
+    });
+  </script>
+</body>
+</html> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Add New Prediction</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+  <div class="sidebar">
+    <a href="profile.html">Profile Info</a>
+    <a href="history.html">Prediction History</a>
+    <a href="prediction.html" class="active">Add New Prediction</a>
+    <button class="logout-btn" id="logoutBtn">Logout</button>
+  </div>
+
+  <div class="container">
+    <h2>Add New Prediction</h2>
+
+    <!-- Form: prevent page refresh -->
+    <form id="predictionForm" onsubmit="return false;">
+      <input type="text" id="cgpa" placeholder="CGPA" required>
+      <input type="text" id="degree" placeholder="Degree" required>
+      <input type="text" id="major" placeholder="Major" required>
+      <input type="text" id="skills" placeholder="Skills (comma separated)" required>
+      <input type="text" id="certifications" placeholder="Certifications (comma separated)">
+      <input type="text" id="experience" placeholder="Experience (years)" required>
+      <input type="text" id="industry" placeholder="Industry Preference">
+      <input type="text" id="employed" placeholder="Employed (yes/no)">
+      <button type="button" id="predictBtn">Predict</button>
+    </form>
+
+    <!-- Prediction result stays here -->
+    <div id="predictionResult" style="margin-top:20px;"></div>
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      const token = localStorage.getItem("token");
+      const email = localStorage.getItem("userEmail");
+
+      if (!token || !email) {
+        alert("Please login first.");
+        window.location.href = "login.html";
+        return;
+      }
+
+      // Logout
+      document.getElementById("logoutBtn").addEventListener("click", () => {
+        localStorage.removeItem("token");
+        localStorage.removeItem("userEmail");
+        window.location.href = "login.html";
+      });
+
+      const predictBtn = document.getElementById("predictBtn");
+      const resultContainer = document.getElementById("predictionResult");
+
+      predictBtn.addEventListener("click", async () => {
+        resultContainer.innerHTML = "<p>⏳ Loading prediction...</p>";
+
+        const data = {
+          CGPA: parseFloat(document.getElementById("cgpa").value),
+          Degree: document.getElementById("degree").value.trim(),
+          Major: document.getElementById("major").value.trim(),
+          Skills: document.getElementById("skills").value
+            ? document.getElementById("skills").value.split(",").map(s => s.trim())
+            : [],
+          Certifications: document.getElementById("certifications").value
+            ? document.getElementById("certifications").value.split(",").map(c => c.trim())
+            : [],
+          Experience: parseFloat(document.getElementById("experience").value),
+          IndustryPreference: document.getElementById("industry").value.trim() || "",
+          Employed: document.getElementById("employed").value.trim() || ""
+        };
+
+        try {
+          const res = await fetch("http://localhost:5000/predict", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "Authorization": `Bearer ${token}`
+            },
+            body: JSON.stringify(data)
+          });
+
+          const result = await res.json();
+
+          if (res.ok && result.predictions) {
+            const topRoles = result.predictions
+              .map(p => `${p.role} (${p.confidence}%)`)
+              .join("<br>");
+
+            resultContainer.innerHTML = `
+              <div style="padding:15px; border:1px solid #3498db; border-radius:8px; background:#ecf6fd;">
+                <h3>Prediction Result</h3>
+                <p><strong>Top Predicted Roles:</strong><br>${topRoles}</p>
+                <p><strong>Degree:</strong> ${data.Degree}</p>
+                <p><strong>Major:</strong> ${data.Major}</p>
+                <p><strong>CGPA:</strong> ${data.CGPA}</p>
+                <p><strong>Skills:</strong> ${data.Skills.join(", ") || "None"}</p>
+                <p><strong>Certifications:</strong> ${data.Certifications.join(", ") || "None"}</p>
+                <p><strong>Experience:</strong> ${data.Experience}</p>
+                <p><strong>Industry Preference:</strong> ${data.IndustryPreference || "N/A"}</p>
+                <p><strong>Employed:</strong> ${data.Employed || "N/A"}</p>
+              </div>
+            `;
+          } else {
+            resultContainer.innerHTML = `<p style="color:red;">Prediction failed. Please try again.</p>`;
+          }
+        } catch (err) {
+          console.error(err);
+          resultContainer.innerHTML = `<p style="color:red;">Error: ${err.message}</p>`;
+        }
+      });
+    });
+  </script>
+</body>
+</html>

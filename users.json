@@ -1,0 +1,423 @@
+[
+  {
+    "username": "abh1",
+    "email": "abc@gmail.com",
+    "password": "1234"
+  },
+  {
+    "email": "abcd@gmail.com",
+    "password": "1234"
+  },
+  {
+    "email": "abh@gmail.com",
+    "password": "1234"
+  },
+  {
+    "username": "ram",
+    "email": "ram@gmail.com",
+    "password": "$2b$10$spdM2AFejZhApF/2s6PMa.lUffDICaZCGOmKVVQWIuj5UtcSFjo02"
+  },
+  {
+    "username": "adam",
+    "email": "adam@gmail.comm",
+    "password": "$2b$10$7epnv7kuqM9E7OKIcnpoAuLzC9SWeJfmE4P7qnhjZqtIp1QzNDxma"
+  },
+  {
+    "username": "sam",
+    "email": "sam@gmail.com",
+    "password": "$2b$10$VQT/fkDQarq920wChNzdOep82sjihLPCG2ChHm30sJ84JNkF9p7k.",
+    "profile": {
+      "username": "sam",
+      "degree": "Mtech",
+      "specialization": "computer science",
+      "cgpa": 9.1,
+      "graduationYear": 2026,
+      "skills": [
+        "problem solving skill"
+      ]
+    }
+  },
+  {
+    "username": "sid",
+    "email": "sid@gmail.com",
+    "password": "$2b$10$KmeCl6GG7mC4a1jqnkjfDePUyFLYFPtK7BJmaB9dvvPaa5ZVKzK/i"
+  },
+  {
+    "username": "cool",
+    "email": "cool@gmail.com",
+    "password": "$2b$10$cU7k4VPkA3/bZGeTVITcjOHkRHRnzsdNEozNN0n9ceo4ZTGI4om7O"
+  },
+  {
+    "username": "sam",
+    "email": "iamsam@gmail.com",
+    "password": "$2b$10$PvLrt7oo3qG49Oba9bsACeqhW70p4AVyQOz76N.qYg2f5qFBV/KFi"
+  },
+  {
+    "username": "gaur",
+    "email": "gaur@gmail.com",
+    "password": "$2b$10$VzN9xBpBjgjG9YxCLq/RsuxU6FwkZxixM85htbdfYM9xRM9L7V1mq"
+  },
+  {
+    "username": "aaru",
+    "email": "aaru@gmail.com",
+    "password": "$2b$10$qo5SzTVOMr5Np8EMF7iBu.1syhPIrbV/FBycd/FZO/Gv2LvKmq06q",
+    "profile": {
+      "username": "aaru",
+      "degree": "Mtech",
+      "specialization": "computer science",
+      "cgpa": 9.1,
+      "graduationYear": 2026,
+      "skills": [
+        "problem solving skill"
+      ]
+    }
+  },
+  {
+    "username": "Abhi",
+    "email": "abhi@gmail.com",
+    "password": "$2b$10$zg/kezUCCUqYiUNm5WcccuDUKi80xjf5x0RrfbekgyMEBUefO/YSC",
+    "profile": {
+      "username": "Abhi",
+      "degree": "Btech",
+      "specialization": "computer science",
+      "cgpa": 9,
+      "graduationYear": 2027,
+      "skills": [
+        "problem solving skill",
+        "c++",
+        "sql"
+      ],
+      "predictions": [
+        {
+          "cgpa": 8.5,
+          "degree": "Btech",
+          "major": "Computer Science",
+          "skills": [
+            "Java",
+            "C",
+            "C++"
+          ],
+          "certifications": [
+            "AWS",
+            "Programming with Java",
+            "Basic C++"
+          ],
+          "experience": "",
+          "employed": "no",
+          "industryPreference": "IT",
+          "predictedRole": "Software Engineer",
+          "date": "2025-09-23T18:05:11.139Z"
+        },
+        {
+          "cgpa": 8,
+          "degree": "Btech",
+          "major": "Finance",
+          "skills": [
+            "typing",
+            "mathematics"
+          ],
+          "certifications": [
+            "AWS",
+            "Basic C++",
+            "SQL"
+          ],
+          "experience": 2,
+          "employed": "no",
+          "industryPreference": "Finance",
+          "predictedRole": "Accountant",
+          "date": "2025-09-23T18:08:57.095Z"
+        },
+        {
+          "cgpa": 8,
+          "degree": "Btech",
+          "major": "Finance",
+          "skills": [
+            "typing",
+            "mathematics"
+          ],
+          "certifications": [
+            "AWS",
+            "Basic C++",
+            "SQL"
+          ],
+          "experience": 2,
+          "employed": "no",
+          "industryPreference": "Finance",
+          "predictedRole": "Accountant",
+          "date": "2025-09-23T18:19:12.762Z"
+        },
+        {
+          "cgpa": 7,
+          "degree": "Btech",
+          "major": "Finance",
+          "skills": [
+            "typing",
+            "mathematics"
+          ],
+          "certifications": [
+            "AWS",
+            "Basic C++",
+            "SQL"
+          ],
+          "experience": 2,
+          "employed": "no",
+          "industryPreference": "Finance",
+          "predictedRole": "Accountant",
+          "date": "2025-09-24T12:22:39.732Z"
+        },
+        {
+          "cgpa": 7,
+          "degree": "Btech",
+          "major": "Data Science",
+          "skills": [
+            "Python",
+            "pandas",
+            "matplotlib"
+          ],
+          "certifications": [
+            "AWS",
+            "Basic C++",
+            "SQL"
+          ],
+          "experience": 1,
+          "employed": "no",
+          "industryPreference": "IT",
+          "predictedRole": "Electrical Engineer",
+          "date": "2025-09-24T14:21:41.495Z"
+        },
+        {
+          "cgpa": 7,
+          "degree": "Btech",
+          "major": "Data Science",
+          "skills": [
+            "Python",
+            "pandas",
+            "matplotlib"
+          ],
+          "certifications": [
+            "AWS",
+            "Basic C++",
+            "SQL"
+          ],
+          "experience": 1,
+          "employed": "no",
+          "industryPreference": "IT",
+          "predictedRole": "Electrical Engineer",
+          "date": "2025-09-24T14:38:50.029Z"
+        }
+      ]
+    }
+  },
+  {
+    "username": "abhay",
+    "email": "abhay@gmail.com",
+    "password": "$2b$10$Nv7T1.zX5mAQfGDPg9HZpeY.L.EnpOkgNCX57y3wrPNVRtqMpEt16",
+    "profile": {
+      "username": "abhay",
+      "degree": "Btech",
+      "specialization": "computer science",
+      "cgpa": 9.1,
+      "graduationYear": 2027,
+      "skills": [
+        "problem solving skill",
+        "c++",
+        "sql",
+        "python"
+      ],
+      "predictions": [
+        {
+          "CGPA": 8,
+          "Degree": "Btech",
+          "Major": "Computer Science",
+          "Skills": [
+            "Java",
+            "C",
+            "C++"
+          ],
+          "Certifications": [
+            "AWS",
+            "Basic C++",
+            "SQL"
+          ],
+          "Experience": 0,
+          "IndustryPreference": "IT",
+          "Employed": "no",
+          "predictions": [
+            {
+              "role": "Software Engineer",
+              "confidence": 35.67
+            },
+            {
+              "role": "Data Scientist",
+              "confidence": 34.33
+            },
+            {
+              "role": "Backend Developer",
+              "confidence": 24.17
+            }
+          ],
+          "date": "2025-10-02T08:52:26.816Z"
+        },
+        {
+          "CGPA": 9,
+          "Degree": "Mtech",
+          "Major": "Computer Science",
+          "Skills": [
+            "Python",
+            "C++"
+          ],
+          "Certifications": [
+            "PMP"
+          ],
+          "Experience": 0,
+          "IndustryPreference": "Finance",
+          "Employed": "no",
+          "predictions": [
+            {
+              "role": "Data Scientist",
+              "confidence": 51.25
+            },
+            {
+              "role": "Backend Developer",
+              "confidence": 17.08
+            },
+            {
+              "role": "Software Engineer",
+              "confidence": 15.83
+            }
+          ],
+          "date": "2025-10-03T13:46:03.436Z"
+        },
+        {
+          "CGPA": 7,
+          "Degree": "MBA",
+          "Major": "Finance",
+          "Skills": [
+            "Financial Modeling",
+            "Excel",
+            "Risk Analysis"
+          ],
+          "Certifications": [
+            "Manufacturing"
+          ],
+          "Experience": 2,
+          "IndustryPreference": "Finance",
+          "Employed": "no",
+          "predictions": [
+            {
+              "role": "Investment Banker",
+              "confidence": 54.58
+            },
+            {
+              "role": "Financial Analyst",
+              "confidence": 32.58
+            },
+            {
+              "role": "Accountant",
+              "confidence": 12.58
+            }
+          ],
+          "date": "2025-10-03T13:53:10.528Z"
+        },
+        {
+          "CGPA": 7,
+          "Degree": "Btech",
+          "Major": "Electrical",
+          "Skills": [
+            "C",
+            "MATLAB"
+          ],
+          "Certifications": [
+            "Manufacturing"
+          ],
+          "Experience": 2,
+          "IndustryPreference": "IT",
+          "Employed": "no",
+          "predictions": [
+            {
+              "role": "Electronics Engineer",
+              "confidence": 64.08
+            },
+            {
+              "role": "Electrical Engineer",
+              "confidence": 11.67
+            },
+            {
+              "role": "Embedded Systems Engineer",
+              "confidence": 11.5
+            }
+          ],
+          "date": "2025-10-03T14:00:57.414Z"
+        },
+        {
+          "CGPA": 8,
+          "Degree": "Btech",
+          "Major": "Machanical",
+          "Skills": [
+            "Thermodynamics",
+            "MATLAB"
+          ],
+          "Certifications": [
+            "PMP"
+          ],
+          "Experience": 1,
+          "IndustryPreference": "Manufacturing",
+          "Employed": "no",
+          "predictions": [
+            {
+              "role": "Mechanical Engineer",
+              "confidence": 22.33
+            },
+            {
+              "role": "Design Engineer",
+              "confidence": 20.83
+            },
+            {
+              "role": "Electronics Engineer",
+              "confidence": 13.17
+            }
+          ],
+          "date": "2025-10-03T14:04:23.700Z"
+        },
+        {
+          "CGPA": 9,
+          "Degree": "Mtech",
+          "Major": "Computer Science",
+          "Skills": [
+            "problem solving skill",
+            "C++"
+          ],
+          "Certifications": [
+            "AWS",
+            "Basic C++",
+            "SQL"
+          ],
+          "Experience": 1,
+          "IndustryPreference": "IT",
+          "Employed": "no",
+          "predictions": [
+            {
+              "role": "Data Scientist",
+              "confidence": 31.5
+            },
+            {
+              "role": "Backend Developer",
+              "confidence": 27.58
+            },
+            {
+              "role": "Software Engineer",
+              "confidence": 25.17
+            }
+          ],
+          "date": "2025-10-06T13:33:31.693Z"
+        }
+      ]
+    }
+  },
+  {
+    "username": "aarushi",
+    "email": "aarushi@gmail.com",
+    "password": "$2b$10$uN1lxZx9DF0JuBKiKN5upuaBwaISn6UjEL/V9AWmgEwc6r1lBPl7W",
+    "profile": {}
+  }
+]

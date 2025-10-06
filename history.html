@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Prediction History</title>
+  <link rel="stylesheet" href="history.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="sidebar">
+    <a href="profile.html">Profile Info</a>
+    <a href="history.html" class="active">Prediction History</a>
+    <a href="prediction.html">Add New Prediction</a>
+    <button class="logout-btn" id="logoutBtn">Logout</button>
+  </div>
+
+  <div class="main">
+    <div class="container">
+      <h2>Prediction History</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>CGPA</th>
+            <th>Degree</th>
+            <th>Major</th>
+            <th>Skills</th>
+            <th>Certifications</th>
+            <th>Experience</th>
+            <th>Employed</th>
+            <th>Industry</th>
+            <th>Predicted Roles (Top 3)</th>
+            <th>Date</th>
+          </tr>
+        </thead>
+        <tbody id="historyTable"></tbody>
+      </table>
+
+      <div class="charts">
+        <div class="chart"><canvas id="rolesChart"></canvas></div>
+        <div class="chart"><canvas id="skillsChart"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const token = localStorage.getItem("token");
+    if (!token) {
+      document.getElementById("historyTable").innerHTML =
+        "<tr><td colspan='10'>Please log in first.</td></tr>";
+    }
+
+    document.getElementById("logoutBtn").addEventListener("click", () => {
+      localStorage.removeItem("token");
+      localStorage.removeItem("userEmail");
+      window.location.href = "login.html";
+    });
+
+    async function loadHistory() {
+      try {
+        const res = await fetch("http://localhost:5000/history", {
+          headers: { "Authorization": `Bearer ${token}` }
+        });
+        const data = await res.json();
+        const tbody = document.getElementById("historyTable");
+        tbody.innerHTML = "";
+
+        if (!data || data.length === 0) {
+          tbody.innerHTML = "<tr><td colspan='10'>No prediction history found.</td></tr>";
+          return;
+        }
+
+        let roleCounts = {}, skillCounts = {};
+
+        data.forEach((item) => {
+          // Format top 3 predictions
+          let rolesDisplay = "";
+          if (item.predictions && Array.isArray(item.predictions)) {
+            rolesDisplay = item.predictions
+              .map(p => `${p.role} (${p.confidence}%)`)
+              .join("<br>");
+
+            // Count roles for chart
+            item.predictions.forEach(p => {
+              roleCounts[p.role] = (roleCounts[p.role] || 0) + 1;
+            });
+          }
+
+          const row = `
+            <tr>
+              <td>${item.CGPA || item.cgpa || ""}</td>
+              <td>${item.Degree || item.degree || ""}</td>
+              <td>${item.Major || item.major || ""}</td>
+              <td>${Array.isArray(item.Skills || item.skills) ? (item.Skills || item.skills).join(", ") : item.Skills || item.skills || ""}</td>
+              <td>${Array.isArray(item.Certifications || item.certifications) ? (item.Certifications || item.certifications).join(", ") : item.Certifications || item.certifications || ""}</td>
+              <td>${item.Experience || item.experience || ""}</td>
+              <td>${item.Employed || item.employed || ""}</td>
+              <td>${item.IndustryPreference || item.industryPreference || ""}</td>
+              <td>${rolesDisplay}</td>
+              <td>${new Date(item.date).toLocaleString()}</td>
+            </tr>`;
+          tbody.innerHTML += row;
+
+          // Count skills
+          (item.Skills || item.skills || []).forEach(s => {
+            if (s) skillCounts[s] = (skillCounts[s] || 0) + 1;
+          });
+        });
+
+        // Roles chart
+        new Chart(document.getElementById("rolesChart"), {
+          type: "bar",
+          data: {
+            labels: Object.keys(roleCounts),
+            datasets: [{
+              label: "Predicted Roles",
+              data: Object.values(roleCounts),
+              backgroundColor: ["#3498db","#e74c3c","#f1c40f","#2ecc71","#9b59b6","#1abc9c"]
+            }]
+          }
+        });
+
+        // Skills chart
+        new Chart(document.getElementById("skillsChart"), {
+          type: "pie",
+          data: {
+            labels: Object.keys(skillCounts),
+            datasets: [{
+              data: Object.values(skillCounts),
+              backgroundColor: ["#2ecc71","#f1c40f","#e67e22","#9b59b6","#e74c3c","#3498db"]
+            }]
+          }
+        });
+
+      } catch (err) {
+        console.error("Error fetching history:", err);
+      }
+    }
+
+    loadHistory();
+  </script>
+</body>
+</html>

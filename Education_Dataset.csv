@@ -1,0 +1,1001 @@
+Degree,Major,CGPA,Employed,Experience,Skills,Certifications,Industry Preference,Job Role
+MBA,Mechanical,6.06,yes,7,"SolidWorks, Thermodynamics",Data Science Certificate,Finance,Design Engineer
+B.Tech,Mechanical,7.21,yes,5,"Thermodynamics, MATLAB, AutoCAD, SolidWorks",None,Research,Manufacturing Engineer
+MBA,Economics,6.66,no,7,"Data Analysis, R, Econometrics, Python, Statistics",PMP,IT,Business Analyst
+MBA,Finance,6.95,no,9,"Financial Modeling, Excel, Risk Analysis",Six Sigma,Manufacturing,Investment Banker
+M.Tech,Computer Science,7.15,no,4,"Java, Machine Learning, Python, C++",Data Science Certificate,Manufacturing,Backend Developer
+MBA,Computer Science,9.81,no,9,"Machine Learning, SQL, Java",Six Sigma,Manufacturing,Software Engineer
+B.Tech,Computer Science,7.7,no,6,"C++, Python, SQL",Six Sigma,Finance,Software Engineer
+M.Tech,Computer Science,9.0,yes,2,"Python, C++",PMP,Finance,Data Scientist
+B.Sc,Electrical,8.17,no,7,"MATLAB, C",PMP,Research,Electronics Engineer
+B.Tech,Finance,6.91,yes,7,"Accounting, Financial Modeling, Excel, SQL",AWS Certified,Manufacturing,Financial Analyst
+B.Sc,Economics,7.94,yes,3,"Econometrics, Statistics",AWS Certified,Finance,Data Analyst
+B.Sc,Computer Science,7.5,yes,2,"SQL, C++, Java, Machine Learning",Data Science Certificate,Finance,Backend Developer
+B.Tech,Finance,8.0,yes,3,"Risk Analysis, Accounting, Excel, Financial Modeling",PMP,Education,Financial Analyst
+MBA,Electrical,7.38,yes,0,"VHDL, Embedded Systems, C, Circuit Design, MATLAB",AWS Certified,IT,Electrical Engineer
+B.Sc,Electrical,6.25,yes,5,"C, VHDL, Embedded Systems, Circuit Design",Data Science Certificate,Finance,Electrical Engineer
+M.Tech,Finance,9.42,no,6,"Risk Analysis, Excel, SQL, Financial Modeling, Accounting",AWS Certified,Research,Financial Analyst
+M.Tech,Mechanical,7.9,no,7,"AutoCAD, Thermodynamics",None,Finance,Mechanical Engineer
+M.Tech,Computer Science,5.8,no,10,"Java, Python",Six Sigma,Education,Backend Developer
+M.Sc,Mechanical,5.21,yes,10,"Thermodynamics, MATLAB, AutoCAD",Data Science Certificate,Research,Design Engineer
+B.Tech,Computer Science,5.5,no,3,"Machine Learning, C++",AWS Certified,Education,Software Engineer
+M.Tech,Mechanical,6.89,yes,10,"MATLAB, SolidWorks, Thermodynamics",PMP,Education,Design Engineer
+B.Tech,Mechanical,8.91,yes,10,"MATLAB, Thermodynamics, SolidWorks",None,Finance,Design Engineer
+B.Tech,Electrical,5.87,yes,8,"Embedded Systems, C, Circuit Design, MATLAB, VHDL",Six Sigma,Manufacturing,Embedded Systems Engineer
+M.Sc,Mechanical,7.44,no,5,"MATLAB, AutoCAD, SolidWorks",AWS Certified,Research,Manufacturing Engineer
+B.Sc,Electrical,7.03,no,2,"C, Embedded Systems, Circuit Design, VHDL",Six Sigma,IT,Electrical Engineer
+B.Sc,Computer Science,5.7,yes,9,"Java, Python",PMP,Research,Software Engineer
+B.Tech,Electrical,5.42,no,1,"Embedded Systems, C",AWS Certified,IT,Electrical Engineer
+M.Sc,Mechanical,9.34,yes,5,"Thermodynamics, MATLAB, SolidWorks, AutoCAD",Six Sigma,Finance,Design Engineer
+M.Sc,Mechanical,6.41,no,9,"Thermodynamics, MATLAB, AutoCAD, SolidWorks",Six Sigma,Research,Mechanical Engineer
+B.Tech,Economics,8.06,yes,10,"Statistics, Data Analysis, Econometrics",Data Science Certificate,Finance,Business Analyst
+B.Sc,Finance,6.79,yes,7,"SQL, Accounting",None,Research,Investment Banker
+B.Tech,Mechanical,5.72,no,8,"SolidWorks, AutoCAD, MATLAB, Thermodynamics",None,Finance,Mechanical Engineer
+M.Sc,Mechanical,7.02,no,2,"SolidWorks, MATLAB, AutoCAD, Thermodynamics",Data Science Certificate,Manufacturing,Design Engineer
+M.Sc,Finance,5.78,yes,7,"Risk Analysis, Excel, Accounting",Data Science Certificate,IT,Accountant
+M.Sc,Economics,5.22,yes,8,"Python, Econometrics, Data Analysis, R",None,Manufacturing,Economist
+M.Sc,Electrical,6.58,yes,5,"MATLAB, Circuit Design, Embedded Systems, VHDL, C",PMP,Manufacturing,Electronics Engineer
+B.Tech,Electrical,6.14,yes,9,"MATLAB, VHDL, C",PMP,Manufacturing,Electronics Engineer
+M.Tech,Computer Science,9.55,no,0,"Java, C++",AWS Certified,Manufacturing,Data Scientist
+M.Tech,Economics,9.65,yes,4,"Econometrics, Statistics, R",Six Sigma,Manufacturing,Data Analyst
+M.Sc,Finance,6.79,no,6,"Risk Analysis, Financial Modeling, Excel, Accounting",Six Sigma,Finance,Accountant
+B.Tech,Electrical,9.03,no,9,"Embedded Systems, Circuit Design, MATLAB, VHDL",None,IT,Electronics Engineer
+M.Sc,Mechanical,9.62,no,9,"SolidWorks, MATLAB, Thermodynamics",PMP,Education,Design Engineer
+B.Tech,Electrical,7.62,no,9,"C, VHDL",Data Science Certificate,Finance,Embedded Systems Engineer
+B.Tech,Electrical,5.55,no,7,"Embedded Systems, MATLAB",Six Sigma,Finance,Embedded Systems Engineer
+MBA,Finance,9.81,yes,5,"Accounting, Risk Analysis, Financial Modeling",AWS Certified,Finance,Financial Analyst
+B.Tech,Computer Science,7.45,yes,3,"Machine Learning, Python",Data Science Certificate,Education,Backend Developer
+M.Sc,Economics,6.24,no,2,"R, Statistics, Econometrics, Data Analysis",None,IT,Economist
+B.Tech,Mechanical,8.36,yes,10,"MATLAB, Thermodynamics",Data Science Certificate,Manufacturing,Mechanical Engineer
+B.Tech,Mechanical,5.39,no,2,"AutoCAD, MATLAB, SolidWorks",PMP,Education,Manufacturing Engineer
+MBA,Mechanical,9.66,yes,1,"AutoCAD, SolidWorks, MATLAB",None,Manufacturing,Mechanical Engineer
+M.Sc,Mechanical,6.11,no,1,"Thermodynamics, MATLAB",None,Manufacturing,Manufacturing Engineer
+MBA,Mechanical,7.86,no,3,"MATLAB, AutoCAD, Thermodynamics, SolidWorks",Data Science Certificate,Education,Mechanical Engineer
+B.Tech,Finance,5.93,no,9,"SQL, Risk Analysis, Accounting",AWS Certified,IT,Investment Banker
+M.Tech,Finance,6.57,yes,1,"Risk Analysis, Accounting, Financial Modeling, Excel, SQL",AWS Certified,Manufacturing,Accountant
+B.Sc,Computer Science,7.77,yes,10,"Machine Learning, Java, Python, C++, SQL",PMP,IT,Data Scientist
+MBA,Finance,9.58,yes,0,"Accounting, Risk Analysis, Excel, SQL, Financial Modeling",PMP,Research,Financial Analyst
+B.Sc,Economics,5.32,yes,10,"Econometrics, Python, Data Analysis",PMP,IT,Data Analyst
+MBA,Economics,9.67,yes,8,"Econometrics, R, Statistics, Python",Data Science Certificate,Research,Economist
+M.Sc,Computer Science,8.57,yes,10,"Python, C++, Java, SQL",Six Sigma,Education,Software Engineer
+M.Tech,Electrical,5.27,no,4,"Embedded Systems, VHDL",Six Sigma,Research,Electrical Engineer
+B.Tech,Mechanical,5.26,no,3,"Thermodynamics, MATLAB",AWS Certified,Finance,Design Engineer
+M.Sc,Finance,5.61,yes,6,"Risk Analysis, Excel, SQL, Financial Modeling",Data Science Certificate,IT,Investment Banker
+B.Sc,Finance,8.34,no,0,"Accounting, Excel",PMP,Finance,Accountant
+B.Tech,Computer Science,6.78,no,7,"C++, Java, SQL, Python, Machine Learning",Data Science Certificate,Research,Software Engineer
+B.Sc,Electrical,8.33,yes,5,"Embedded Systems, VHDL, MATLAB",Data Science Certificate,IT,Electrical Engineer
+M.Tech,Finance,7.92,no,10,"Risk Analysis, SQL, Financial Modeling",Six Sigma,IT,Investment Banker
+M.Sc,Economics,8.9,no,2,"R, Data Analysis",AWS Certified,Education,Economist
+B.Sc,Electrical,6.19,yes,7,"MATLAB, Circuit Design, VHDL",PMP,Finance,Electronics Engineer
+MBA,Computer Science,8.41,yes,5,"Java, Python, SQL, Machine Learning, C++",None,IT,Software Engineer
+B.Sc,Mechanical,9.58,no,2,"Thermodynamics, MATLAB, SolidWorks",AWS Certified,IT,Mechanical Engineer
+M.Tech,Computer Science,8.9,no,9,"Machine Learning, Java, Python",AWS Certified,IT,Software Engineer
+B.Sc,Economics,5.45,no,3,"Econometrics, Python",AWS Certified,Education,Business Analyst
+M.Tech,Electrical,7.17,no,2,"Circuit Design, MATLAB, C, Embedded Systems, VHDL",Data Science Certificate,Manufacturing,Embedded Systems Engineer
+M.Sc,Mechanical,8.12,no,8,"SolidWorks, AutoCAD, Thermodynamics, MATLAB",AWS Certified,IT,Manufacturing Engineer
+B.Tech,Electrical,7.1,yes,9,"Circuit Design, C",None,Manufacturing,Electrical Engineer
+B.Tech,Mechanical,7.85,no,8,"Thermodynamics, MATLAB",PMP,Manufacturing,Mechanical Engineer
+B.Tech,Computer Science,5.09,yes,8,"SQL, Machine Learning, C++, Java",PMP,IT,Software Engineer
+MBA,Finance,8.36,no,10,"Risk Analysis, Accounting, Excel",Data Science Certificate,Manufacturing,Financial Analyst
+MBA,Economics,7.34,yes,0,"R, Data Analysis, Python",Six Sigma,IT,Business Analyst
+B.Tech,Finance,6.16,yes,2,"Financial Modeling, Excel",AWS Certified,Finance,Financial Analyst
+M.Tech,Electrical,8.29,yes,3,"MATLAB, C, VHDL",Data Science Certificate,Education,Electronics Engineer
+B.Sc,Finance,5.25,yes,3,"SQL, Excel, Accounting, Financial Modeling",Data Science Certificate,Manufacturing,Financial Analyst
+MBA,Mechanical,9.8,yes,0,"AutoCAD, Thermodynamics, SolidWorks, MATLAB",None,IT,Mechanical Engineer
+M.Sc,Mechanical,8.6,no,0,"AutoCAD, SolidWorks, MATLAB",None,IT,Mechanical Engineer
+M.Sc,Mechanical,5.69,yes,0,"Thermodynamics, SolidWorks",PMP,Research,Design Engineer
+MBA,Finance,7.28,yes,8,"Financial Modeling, Accounting",Data Science Certificate,IT,Investment Banker
+M.Sc,Mechanical,5.57,no,0,"AutoCAD, SolidWorks, MATLAB, Thermodynamics",None,IT,Design Engineer
+M.Tech,Mechanical,7.02,yes,2,"AutoCAD, Thermodynamics",Six Sigma,IT,Design Engineer
+MBA,Electrical,8.12,yes,9,"VHDL, MATLAB, Embedded Systems, C",Six Sigma,Education,Electrical Engineer
+B.Sc,Mechanical,5.49,no,10,"Thermodynamics, AutoCAD",AWS Certified,Research,Mechanical Engineer
+B.Tech,Finance,9.85,yes,7,"Financial Modeling, Excel",AWS Certified,Education,Financial Analyst
+M.Tech,Electrical,5.6,yes,8,"C, MATLAB, Circuit Design, VHDL",Data Science Certificate,Manufacturing,Electrical Engineer
+M.Tech,Finance,9.07,no,8,"Financial Modeling, Risk Analysis, SQL",AWS Certified,IT,Accountant
+B.Sc,Finance,7.95,yes,1,"SQL, Accounting, Risk Analysis, Financial Modeling, Excel",AWS Certified,Manufacturing,Financial Analyst
+M.Tech,Finance,7.5,no,6,"Accounting, Risk Analysis",Six Sigma,Education,Accountant
+M.Tech,Mechanical,5.02,yes,9,"SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Research,Design Engineer
+M.Tech,Computer Science,8.12,yes,10,"Java, SQL, Machine Learning, Python, C++",Six Sigma,Research,Backend Developer
+M.Tech,Finance,8.2,yes,5,"SQL, Risk Analysis, Financial Modeling, Excel, Accounting",Data Science Certificate,Education,Investment Banker
+M.Sc,Electrical,6.61,yes,5,"MATLAB, Circuit Design, C, Embedded Systems",AWS Certified,Manufacturing,Electronics Engineer
+B.Sc,Economics,7.29,yes,0,"Data Analysis, Statistics, Python, Econometrics, R",Data Science Certificate,Manufacturing,Data Analyst
+B.Tech,Mechanical,6.1,no,5,"AutoCAD, SolidWorks",PMP,Manufacturing,Manufacturing Engineer
+MBA,Electrical,9.97,yes,1,"Embedded Systems, Circuit Design, VHDL, MATLAB, C",PMP,IT,Electronics Engineer
+M.Tech,Finance,9.04,yes,3,"Financial Modeling, SQL, Risk Analysis",Data Science Certificate,IT,Investment Banker
+B.Tech,Computer Science,6.12,no,10,"Python, Machine Learning, SQL, Java",None,Research,Data Scientist
+B.Sc,Mechanical,8.61,yes,5,"SolidWorks, MATLAB",AWS Certified,IT,Mechanical Engineer
+M.Sc,Economics,6.44,yes,10,"Python, Econometrics, Data Analysis, R, Statistics",Data Science Certificate,Education,Economist
+M.Tech,Economics,7.48,no,6,"Econometrics, Statistics, R, Python, Data Analysis",AWS Certified,Finance,Economist
+B.Tech,Finance,5.64,no,4,"Accounting, Risk Analysis, SQL",None,Education,Investment Banker
+MBA,Electrical,5.46,yes,0,"MATLAB, C, Embedded Systems",None,Education,Electronics Engineer
+B.Sc,Economics,7.18,yes,8,"Python, Statistics",PMP,IT,Economist
+B.Sc,Economics,9.93,no,1,"Econometrics, Python, R, Data Analysis",None,Manufacturing,Economist
+MBA,Computer Science,9.28,yes,3,"SQL, Java",Six Sigma,Education,Backend Developer
+M.Tech,Mechanical,9.41,yes,6,"MATLAB, SolidWorks, AutoCAD, Thermodynamics",None,Research,Design Engineer
+MBA,Electrical,6.82,no,3,"Embedded Systems, MATLAB, Circuit Design, C",Six Sigma,Manufacturing,Electrical Engineer
+MBA,Finance,6.38,no,5,"Financial Modeling, SQL",Six Sigma,Manufacturing,Accountant
+B.Tech,Economics,9.82,no,7,"Data Analysis, Python, Statistics, R, Econometrics",AWS Certified,Manufacturing,Data Analyst
+M.Sc,Electrical,8.19,yes,0,"C, VHDL, Circuit Design, Embedded Systems",PMP,Research,Electronics Engineer
+M.Tech,Computer Science,5.7,no,5,"C++, Machine Learning, SQL",None,Research,Software Engineer
+B.Sc,Computer Science,5.42,no,4,"SQL, Machine Learning",AWS Certified,IT,Software Engineer
+B.Tech,Mechanical,5.19,no,10,"MATLAB, AutoCAD",None,Manufacturing,Manufacturing Engineer
+M.Tech,Finance,7.39,no,1,"Financial Modeling, SQL, Excel, Risk Analysis",PMP,Finance,Investment Banker
+B.Tech,Finance,8.83,yes,5,"Risk Analysis, Financial Modeling",AWS Certified,Research,Financial Analyst
+B.Sc,Computer Science,8.59,no,6,"Java, SQL",Six Sigma,Manufacturing,Software Engineer
+B.Tech,Computer Science,5.21,yes,0,"C++, SQL, Java, Python",None,Research,Data Scientist
+B.Sc,Finance,8.88,no,3,"Excel, Accounting, Financial Modeling, SQL",AWS Certified,Education,Investment Banker
+M.Sc,Economics,7.47,no,8,"Econometrics, Statistics",AWS Certified,IT,Economist
+M.Sc,Mechanical,9.31,yes,9,"AutoCAD, SolidWorks",PMP,IT,Design Engineer
+MBA,Economics,9.58,no,3,"Python, Data Analysis, Econometrics, Statistics, R",AWS Certified,Research,Data Analyst
+M.Tech,Finance,6.04,yes,3,"Accounting, Excel, Financial Modeling, Risk Analysis",AWS Certified,Research,Investment Banker
+B.Sc,Economics,8.42,no,5,"Econometrics, R, Data Analysis, Statistics",Data Science Certificate,IT,Data Analyst
+M.Tech,Electrical,9.59,yes,1,"MATLAB, VHDL",Data Science Certificate,IT,Electrical Engineer
+M.Tech,Electrical,8.79,no,5,"MATLAB, Embedded Systems, VHDL, C",AWS Certified,Research,Embedded Systems Engineer
+B.Tech,Mechanical,9.77,yes,6,"Thermodynamics, AutoCAD, SolidWorks, MATLAB",PMP,Finance,Design Engineer
+M.Sc,Finance,5.78,no,7,"Risk Analysis, Excel, SQL, Financial Modeling, Accounting",Data Science Certificate,Research,Accountant
+M.Sc,Computer Science,7.46,yes,7,"Machine Learning, Python, C++, SQL, Java",Data Science Certificate,IT,Backend Developer
+M.Sc,Economics,7.55,no,6,"Statistics, Python, Econometrics, Data Analysis, R",AWS Certified,IT,Business Analyst
+MBA,Finance,7.76,yes,2,"Risk Analysis, Accounting, SQL",PMP,Manufacturing,Financial Analyst
+M.Sc,Electrical,8.63,no,2,"Embedded Systems, C",Six Sigma,Education,Electronics Engineer
+M.Tech,Electrical,8.12,no,0,"C, Circuit Design, VHDL",Six Sigma,Manufacturing,Electronics Engineer
+MBA,Mechanical,5.53,no,3,"MATLAB, Thermodynamics, AutoCAD, SolidWorks",AWS Certified,Manufacturing,Mechanical Engineer
+MBA,Mechanical,7.2,no,0,"MATLAB, Thermodynamics, AutoCAD",PMP,Manufacturing,Mechanical Engineer
+M.Sc,Finance,9.51,yes,7,"Financial Modeling, Risk Analysis, SQL",None,Education,Financial Analyst
+B.Tech,Electrical,8.7,no,7,"Embedded Systems, C, Circuit Design, MATLAB",Data Science Certificate,Finance,Electronics Engineer
+M.Tech,Finance,5.22,yes,5,"Accounting, Excel, Risk Analysis, Financial Modeling, SQL",PMP,Research,Financial Analyst
+B.Sc,Computer Science,8.76,yes,5,"Python, C++, SQL, Machine Learning, Java",None,IT,Backend Developer
+B.Sc,Economics,8.39,yes,10,"Data Analysis, Statistics",PMP,IT,Data Analyst
+MBA,Finance,9.42,yes,4,"Financial Modeling, Excel, Accounting, Risk Analysis, SQL",Six Sigma,Education,Investment Banker
+MBA,Finance,8.99,yes,0,"Accounting, Financial Modeling, Excel",Data Science Certificate,Manufacturing,Investment Banker
+B.Sc,Electrical,8.29,no,3,"C, MATLAB, VHDL",Six Sigma,Education,Electronics Engineer
+B.Tech,Electrical,8.98,no,0,"MATLAB, VHDL, C, Circuit Design, Embedded Systems",AWS Certified,Education,Embedded Systems Engineer
+MBA,Finance,6.9,no,6,"SQL, Financial Modeling, Accounting, Risk Analysis, Excel",Six Sigma,Finance,Financial Analyst
+B.Tech,Mechanical,8.67,no,3,"Thermodynamics, SolidWorks",AWS Certified,Manufacturing,Manufacturing Engineer
+B.Sc,Electrical,7.37,no,5,"VHDL, C, MATLAB, Circuit Design",AWS Certified,Education,Electrical Engineer
+M.Tech,Mechanical,7.44,yes,4,"MATLAB, Thermodynamics, AutoCAD",PMP,Research,Mechanical Engineer
+MBA,Economics,6.87,no,4,"Python, Data Analysis, Econometrics, Statistics, R",Six Sigma,Education,Economist
+M.Sc,Economics,6.96,no,8,"R, Statistics",Six Sigma,Finance,Data Analyst
+M.Sc,Finance,6.73,no,2,"Risk Analysis, Financial Modeling, SQL, Accounting",Six Sigma,Manufacturing,Investment Banker
+M.Tech,Finance,8.47,no,1,"SQL, Excel, Risk Analysis, Accounting",PMP,Research,Financial Analyst
+B.Tech,Finance,7.03,no,7,"Excel, SQL, Risk Analysis, Accounting",None,Research,Investment Banker
+M.Sc,Electrical,7.07,no,8,"MATLAB, Circuit Design, VHDL, Embedded Systems, C",PMP,IT,Electrical Engineer
+B.Sc,Economics,8.69,no,5,"Econometrics, R, Data Analysis",Six Sigma,Education,Business Analyst
+M.Tech,Economics,5.99,yes,1,"Statistics, Econometrics",AWS Certified,Manufacturing,Data Analyst
+B.Sc,Electrical,7.48,yes,5,"Circuit Design, MATLAB, Embedded Systems, C",PMP,Research,Electrical Engineer
+B.Sc,Computer Science,7.5,no,4,"Machine Learning, Java, C++, SQL, Python",None,Finance,Backend Developer
+MBA,Economics,7.0,yes,3,"Python, Econometrics",AWS Certified,IT,Data Analyst
+B.Sc,Mechanical,6.8,yes,7,"SolidWorks, Thermodynamics, MATLAB, AutoCAD",Six Sigma,Manufacturing,Manufacturing Engineer
+B.Sc,Mechanical,8.9,yes,3,"SolidWorks, MATLAB, AutoCAD, Thermodynamics",Data Science Certificate,Research,Design Engineer
+B.Sc,Computer Science,9.98,no,7,"Python, SQL, Java, Machine Learning, C++",Six Sigma,Research,Software Engineer
+MBA,Finance,6.34,no,0,"Accounting, Financial Modeling",PMP,IT,Investment Banker
+MBA,Finance,5.93,yes,6,"Accounting, Excel, Financial Modeling",AWS Certified,Finance,Financial Analyst
+MBA,Finance,5.27,yes,10,"Financial Modeling, Accounting, Risk Analysis",AWS Certified,Research,Financial Analyst
+B.Tech,Economics,6.29,no,1,"Econometrics, Statistics, Python",Six Sigma,Research,Data Analyst
+B.Tech,Mechanical,7.62,no,10,"Thermodynamics, SolidWorks, AutoCAD",PMP,Finance,Manufacturing Engineer
+M.Tech,Computer Science,6.48,yes,10,"SQL, Java, C++",Six Sigma,Manufacturing,Backend Developer
+B.Tech,Electrical,5.3,no,9,"VHDL, Embedded Systems, Circuit Design",Data Science Certificate,IT,Electrical Engineer
+B.Sc,Mechanical,7.6,yes,1,"SolidWorks, Thermodynamics, AutoCAD, MATLAB",PMP,IT,Manufacturing Engineer
+M.Sc,Finance,5.81,no,10,"Excel, Financial Modeling",None,Education,Investment Banker
+M.Tech,Economics,7.23,yes,9,"Python, Statistics, R, Data Analysis, Econometrics",Data Science Certificate,Education,Economist
+M.Sc,Economics,9.81,yes,0,"Python, R, Econometrics, Statistics",PMP,Finance,Business Analyst
+M.Sc,Computer Science,9.57,yes,5,"Python, Machine Learning",AWS Certified,Education,Data Scientist
+B.Sc,Mechanical,9.4,yes,6,"Thermodynamics, SolidWorks, MATLAB, AutoCAD",AWS Certified,Education,Mechanical Engineer
+M.Sc,Mechanical,6.09,no,10,"AutoCAD, MATLAB, Thermodynamics",Six Sigma,Manufacturing,Design Engineer
+B.Tech,Mechanical,9.12,no,8,"MATLAB, SolidWorks, Thermodynamics, AutoCAD",None,Manufacturing,Manufacturing Engineer
+M.Tech,Economics,5.57,yes,4,"Econometrics, Statistics, Python, R, Data Analysis",Six Sigma,IT,Business Analyst
+M.Sc,Finance,6.34,no,10,"Risk Analysis, Financial Modeling, SQL, Accounting, Excel",Data Science Certificate,Education,Accountant
+B.Tech,Economics,5.83,no,3,"Statistics, R, Python",AWS Certified,Finance,Data Analyst
+MBA,Mechanical,9.26,yes,9,"AutoCAD, MATLAB, SolidWorks, Thermodynamics",AWS Certified,Finance,Design Engineer
+B.Sc,Mechanical,6.39,no,2,"AutoCAD, SolidWorks, MATLAB",Data Science Certificate,Education,Mechanical Engineer
+M.Tech,Computer Science,6.43,no,4,"C++, SQL, Java",AWS Certified,Manufacturing,Backend Developer
+M.Sc,Computer Science,7.54,yes,8,"Java, Python, SQL",None,Education,Software Engineer
+B.Sc,Computer Science,7.47,yes,1,"Java, Python, SQL, C++, Machine Learning",None,Manufacturing,Software Engineer
+B.Sc,Finance,5.86,yes,9,"SQL, Excel, Financial Modeling, Risk Analysis, Accounting",None,Education,Financial Analyst
+B.Sc,Electrical,9.67,yes,3,"Embedded Systems, MATLAB, Circuit Design, VHDL",Six Sigma,Manufacturing,Electrical Engineer
+B.Tech,Economics,6.08,yes,7,"Python, R, Data Analysis, Statistics, Econometrics",None,Finance,Data Analyst
+M.Tech,Mechanical,6.8,yes,7,"Thermodynamics, SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Finance,Design Engineer
+B.Tech,Electrical,5.36,yes,8,"Circuit Design, Embedded Systems, VHDL, C",PMP,Finance,Embedded Systems Engineer
+B.Tech,Computer Science,5.82,no,4,"Machine Learning, C++, Python, SQL",Data Science Certificate,IT,Software Engineer
+M.Tech,Finance,8.15,no,8,"Excel, Financial Modeling, SQL",Six Sigma,Manufacturing,Financial Analyst
+B.Sc,Finance,7.69,yes,7,"Excel, Risk Analysis",None,Manufacturing,Investment Banker
+MBA,Finance,7.61,no,2,"Excel, Risk Analysis, Accounting, Financial Modeling, SQL",Six Sigma,Education,Investment Banker
+B.Sc,Electrical,6.0,yes,8,"Embedded Systems, VHDL, C",Six Sigma,Research,Electronics Engineer
+M.Sc,Finance,6.61,yes,8,"Financial Modeling, SQL",PMP,IT,Financial Analyst
+B.Tech,Electrical,8.29,no,1,"C, Embedded Systems, Circuit Design",AWS Certified,Education,Electronics Engineer
+M.Sc,Computer Science,7.39,no,5,"Machine Learning, SQL, C++",PMP,Education,Backend Developer
+MBA,Finance,6.54,no,9,"Accounting, SQL, Excel, Financial Modeling, Risk Analysis",AWS Certified,IT,Investment Banker
+B.Sc,Computer Science,7.16,yes,4,"Machine Learning, C++, SQL",PMP,Education,Data Scientist
+M.Sc,Economics,6.88,no,0,"Python, Statistics, Econometrics",PMP,Research,Economist
+B.Tech,Economics,9.64,no,6,"Python, R, Econometrics",None,Finance,Economist
+MBA,Electrical,8.02,no,6,"C, Circuit Design, VHDL, MATLAB, Embedded Systems",PMP,Research,Embedded Systems Engineer
+MBA,Electrical,9.75,yes,4,"C, Circuit Design, VHDL, MATLAB",Six Sigma,Research,Embedded Systems Engineer
+MBA,Computer Science,8.25,yes,10,"SQL, Java, C++",Six Sigma,Finance,Data Scientist
+M.Tech,Mechanical,6.51,yes,9,"MATLAB, Thermodynamics",Six Sigma,Manufacturing,Design Engineer
+B.Sc,Finance,7.09,yes,10,"Financial Modeling, Accounting, Risk Analysis, Excel, SQL",Data Science Certificate,Education,Financial Analyst
+MBA,Computer Science,5.05,no,5,"Machine Learning, Python",PMP,Research,Data Scientist
+B.Tech,Finance,7.95,no,8,"Financial Modeling, Excel, Risk Analysis, Accounting, SQL",Six Sigma,Finance,Financial Analyst
+MBA,Mechanical,7.08,no,9,"SolidWorks, MATLAB, Thermodynamics, AutoCAD",None,Manufacturing,Manufacturing Engineer
+M.Sc,Computer Science,6.08,no,2,"Java, Machine Learning, C++, Python",Six Sigma,Research,Backend Developer
+B.Sc,Electrical,5.02,yes,7,"Circuit Design, C, MATLAB",Data Science Certificate,Manufacturing,Embedded Systems Engineer
+M.Sc,Electrical,7.13,yes,10,"MATLAB, C, Circuit Design, Embedded Systems, VHDL",PMP,Manufacturing,Electronics Engineer
+MBA,Mechanical,5.54,yes,7,"Thermodynamics, AutoCAD, MATLAB",Six Sigma,Finance,Manufacturing Engineer
+MBA,Mechanical,6.29,no,0,"Thermodynamics, SolidWorks, MATLAB",PMP,Finance,Design Engineer
+B.Sc,Computer Science,9.44,yes,8,"SQL, Python, Machine Learning",None,Research,Software Engineer
+M.Sc,Mechanical,7.17,no,2,"Thermodynamics, SolidWorks, MATLAB",Six Sigma,Finance,Mechanical Engineer
+MBA,Mechanical,8.64,yes,4,"SolidWorks, AutoCAD",Data Science Certificate,Finance,Manufacturing Engineer
+MBA,Economics,8.55,no,7,"Data Analysis, Python, Econometrics",None,Manufacturing,Data Analyst
+B.Sc,Finance,6.03,no,0,"Financial Modeling, Risk Analysis, Accounting, Excel, SQL",Six Sigma,Finance,Accountant
+M.Tech,Finance,7.04,yes,9,"Risk Analysis, SQL, Excel",Data Science Certificate,Finance,Financial Analyst
+B.Tech,Finance,8.69,no,9,"Accounting, Financial Modeling, Risk Analysis",Six Sigma,Research,Financial Analyst
+M.Sc,Computer Science,8.55,no,5,"C++, Python, Java, SQL, Machine Learning",Data Science Certificate,Finance,Software Engineer
+M.Sc,Economics,7.21,no,10,"Python, Statistics, R",Six Sigma,Education,Business Analyst
+B.Sc,Economics,9.25,yes,7,"Data Analysis, R, Python, Statistics",AWS Certified,Research,Economist
+M.Sc,Finance,8.12,no,9,"Risk Analysis, Financial Modeling, Excel",None,Education,Accountant
+M.Tech,Electrical,7.66,yes,5,"Embedded Systems, Circuit Design, MATLAB, VHDL, C",Six Sigma,IT,Embedded Systems Engineer
+B.Sc,Electrical,6.93,yes,1,"C, MATLAB",Data Science Certificate,Education,Electrical Engineer
+B.Tech,Computer Science,9.12,no,8,"SQL, Java, Machine Learning, C++, Python",None,Manufacturing,Software Engineer
+M.Sc,Mechanical,9.95,no,0,"Thermodynamics, SolidWorks",AWS Certified,Manufacturing,Manufacturing Engineer
+MBA,Mechanical,7.73,yes,8,"SolidWorks, Thermodynamics, AutoCAD, MATLAB",AWS Certified,Research,Manufacturing Engineer
+M.Tech,Mechanical,9.22,yes,10,"AutoCAD, MATLAB",AWS Certified,Education,Mechanical Engineer
+M.Sc,Economics,6.89,no,2,"Python, Data Analysis, R",Data Science Certificate,Finance,Data Analyst
+MBA,Finance,5.47,no,1,"Accounting, Excel",PMP,Education,Financial Analyst
+B.Sc,Mechanical,7.29,yes,10,"Thermodynamics, SolidWorks, MATLAB",None,IT,Mechanical Engineer
+M.Sc,Mechanical,8.91,no,4,"SolidWorks, MATLAB, AutoCAD",PMP,Research,Mechanical Engineer
+M.Tech,Mechanical,5.34,no,9,"Thermodynamics, SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Research,Manufacturing Engineer
+B.Tech,Finance,5.19,no,5,"Risk Analysis, Financial Modeling, Excel, Accounting",PMP,Manufacturing,Financial Analyst
+M.Sc,Computer Science,5.94,no,4,"SQL, Machine Learning",Data Science Certificate,Finance,Backend Developer
+M.Sc,Electrical,6.82,no,3,"Embedded Systems, VHDL, Circuit Design, MATLAB, C",None,Finance,Electronics Engineer
+MBA,Computer Science,8.42,yes,2,"SQL, Python, Java, C++",None,Manufacturing,Software Engineer
+M.Tech,Economics,6.89,no,10,"Data Analysis, R, Statistics",Data Science Certificate,Education,Business Analyst
+M.Sc,Mechanical,8.43,no,9,"SolidWorks, MATLAB",Six Sigma,Finance,Manufacturing Engineer
+MBA,Computer Science,8.01,yes,9,"Python, Java, Machine Learning",AWS Certified,Education,Backend Developer
+B.Tech,Finance,7.97,yes,4,"SQL, Accounting, Risk Analysis, Excel",PMP,Finance,Accountant
+M.Tech,Electrical,7.84,yes,10,"Circuit Design, Embedded Systems, MATLAB, C",PMP,Finance,Electrical Engineer
+B.Sc,Electrical,7.23,no,2,"Circuit Design, VHDL",PMP,Finance,Embedded Systems Engineer
+B.Tech,Electrical,6.8,no,2,"Embedded Systems, VHDL, Circuit Design, C",AWS Certified,IT,Electronics Engineer
+B.Tech,Mechanical,8.97,yes,7,"MATLAB, Thermodynamics, SolidWorks",None,Manufacturing,Design Engineer
+M.Sc,Computer Science,8.99,yes,9,"Java, C++, SQL, Machine Learning",Data Science Certificate,IT,Data Scientist
+B.Sc,Electrical,9.88,yes,4,"C, Embedded Systems, Circuit Design",PMP,Finance,Electrical Engineer
+M.Sc,Computer Science,9.5,no,2,"C++, Java, Machine Learning, SQL, Python",None,Research,Backend Developer
+M.Sc,Finance,6.11,yes,10,"Risk Analysis, Accounting",PMP,Education,Accountant
+B.Sc,Computer Science,8.68,yes,5,"Python, SQL",PMP,Research,Backend Developer
+M.Sc,Computer Science,5.39,yes,5,"Java, Python",None,IT,Software Engineer
+M.Sc,Computer Science,6.49,yes,7,"SQL, Python, C++, Machine Learning",Data Science Certificate,IT,Backend Developer
+B.Sc,Mechanical,6.18,yes,5,"Thermodynamics, SolidWorks, AutoCAD",Six Sigma,IT,Design Engineer
+M.Sc,Mechanical,9.25,yes,4,"MATLAB, SolidWorks, Thermodynamics",Six Sigma,Research,Design Engineer
+MBA,Mechanical,5.0,yes,1,"Thermodynamics, SolidWorks",AWS Certified,Education,Manufacturing Engineer
+B.Sc,Economics,9.58,yes,4,"Econometrics, R, Python, Statistics",AWS Certified,Manufacturing,Business Analyst
+MBA,Finance,6.43,no,9,"Excel, Risk Analysis, Financial Modeling",None,Manufacturing,Investment Banker
+B.Sc,Computer Science,8.32,no,4,"SQL, Machine Learning, Python, Java",Data Science Certificate,Research,Data Scientist
+B.Tech,Mechanical,8.11,no,9,"Thermodynamics, AutoCAD, SolidWorks",PMP,Research,Design Engineer
+B.Tech,Finance,8.21,yes,8,"SQL, Accounting, Excel, Risk Analysis, Financial Modeling",Six Sigma,Research,Investment Banker
+MBA,Electrical,9.38,no,6,"Circuit Design, MATLAB, Embedded Systems, C",None,IT,Electrical Engineer
+B.Tech,Electrical,6.05,yes,0,"VHDL, MATLAB, Embedded Systems, Circuit Design, C",None,Finance,Electrical Engineer
+B.Tech,Economics,6.07,yes,5,"Python, Statistics, R, Econometrics",Data Science Certificate,Education,Economist
+M.Tech,Mechanical,5.45,no,6,"Thermodynamics, MATLAB, SolidWorks, AutoCAD",Data Science Certificate,Finance,Mechanical Engineer
+M.Sc,Computer Science,5.71,no,3,"Machine Learning, SQL, Python",PMP,Finance,Backend Developer
+MBA,Finance,6.36,no,10,"Accounting, SQL, Risk Analysis",Six Sigma,Finance,Investment Banker
+B.Tech,Electrical,9.29,yes,4,"VHDL, MATLAB, C",Six Sigma,IT,Embedded Systems Engineer
+M.Sc,Finance,7.2,yes,10,"Accounting, Risk Analysis, Excel",AWS Certified,Education,Accountant
+M.Tech,Finance,5.09,yes,9,"Accounting, Risk Analysis",None,IT,Accountant
+M.Sc,Electrical,9.51,yes,9,"MATLAB, C, VHDL, Embedded Systems, Circuit Design",None,Manufacturing,Electronics Engineer
+B.Tech,Mechanical,5.32,no,8,"SolidWorks, AutoCAD, Thermodynamics",Six Sigma,Manufacturing,Design Engineer
+MBA,Mechanical,7.95,no,8,"MATLAB, Thermodynamics",AWS Certified,Research,Mechanical Engineer
+B.Sc,Electrical,9.98,no,9,"C, Embedded Systems, Circuit Design, VHDL, MATLAB",Six Sigma,Education,Electronics Engineer
+B.Sc,Electrical,5.35,no,6,"Circuit Design, MATLAB",PMP,Finance,Embedded Systems Engineer
+B.Tech,Computer Science,5.8,yes,6,"Python, Java",None,Finance,Data Scientist
+B.Sc,Economics,9.8,no,8,"R, Econometrics, Statistics, Data Analysis, Python",Data Science Certificate,Finance,Data Analyst
+B.Tech,Electrical,8.94,yes,3,"Circuit Design, C, Embedded Systems",PMP,IT,Electrical Engineer
+M.Tech,Computer Science,9.83,yes,8,"Java, Machine Learning, Python, C++",Six Sigma,IT,Backend Developer
+B.Tech,Finance,7.1,no,5,"SQL, Accounting, Financial Modeling, Excel",None,Education,Accountant
+M.Sc,Computer Science,5.38,no,8,"SQL, Java",Data Science Certificate,Education,Data Scientist
+M.Sc,Economics,7.6,yes,8,"Econometrics, Python, R, Data Analysis, Statistics",None,Education,Business Analyst
+MBA,Computer Science,7.94,no,1,"Python, Java, Machine Learning",PMP,Education,Data Scientist
+B.Tech,Finance,6.48,yes,7,"Excel, SQL, Risk Analysis",Six Sigma,Finance,Accountant
+M.Sc,Economics,5.57,no,7,"Econometrics, Python, Statistics",PMP,IT,Economist
+M.Sc,Finance,8.91,yes,10,"Financial Modeling, SQL, Risk Analysis, Accounting",PMP,Finance,Accountant
+M.Sc,Electrical,8.9,yes,0,"Embedded Systems, Circuit Design, MATLAB, C",Data Science Certificate,Education,Embedded Systems Engineer
+MBA,Computer Science,8.0,yes,7,"C++, Machine Learning, SQL",Data Science Certificate,Finance,Software Engineer
+M.Tech,Economics,8.11,no,5,"Data Analysis, Econometrics, R, Statistics, Python",AWS Certified,Manufacturing,Economist
+B.Tech,Finance,9.25,no,9,"Excel, SQL, Risk Analysis, Financial Modeling, Accounting",Data Science Certificate,Manufacturing,Accountant
+MBA,Computer Science,8.57,yes,7,"Machine Learning, C++, Java, Python",Six Sigma,Education,Software Engineer
+MBA,Finance,9.63,yes,6,"Financial Modeling, Accounting, Excel, SQL, Risk Analysis",AWS Certified,Manufacturing,Accountant
+M.Sc,Finance,5.8,yes,4,"Excel, Accounting, SQL, Financial Modeling",None,IT,Financial Analyst
+B.Sc,Finance,5.77,no,8,"Risk Analysis, Accounting, Financial Modeling, Excel",PMP,Manufacturing,Accountant
+B.Sc,Finance,7.0,no,9,"Accounting, Financial Modeling, Risk Analysis, SQL",AWS Certified,IT,Accountant
+B.Sc,Economics,6.35,no,1,"Data Analysis, Python, Statistics, Econometrics, R",Six Sigma,Research,Business Analyst
+B.Sc,Computer Science,7.56,yes,3,"C++, Java, Python, Machine Learning",Data Science Certificate,Manufacturing,Data Scientist
+M.Tech,Economics,5.99,yes,4,"Statistics, Econometrics, Python, Data Analysis",AWS Certified,IT,Economist
+MBA,Finance,6.57,no,4,"Accounting, Financial Modeling, Excel",Data Science Certificate,Finance,Investment Banker
+M.Sc,Economics,8.66,no,5,"Econometrics, Python, Statistics, R",PMP,Manufacturing,Economist
+MBA,Economics,7.98,no,10,"Python, Statistics, Data Analysis",None,IT,Economist
+B.Tech,Mechanical,8.4,yes,9,"MATLAB, Thermodynamics, SolidWorks",PMP,Manufacturing,Mechanical Engineer
+M.Sc,Computer Science,8.56,yes,8,"SQL, C++, Machine Learning",Data Science Certificate,Finance,Backend Developer
+MBA,Electrical,7.63,no,7,"Circuit Design, C, Embedded Systems",Six Sigma,Education,Electrical Engineer
+B.Tech,Electrical,9.19,yes,2,"MATLAB, VHDL, C, Circuit Design",AWS Certified,Finance,Electrical Engineer
+MBA,Computer Science,9.13,yes,3,"Machine Learning, Java, Python",Six Sigma,Finance,Backend Developer
+M.Sc,Economics,5.64,no,2,"Python, R",PMP,Education,Business Analyst
+MBA,Mechanical,5.92,yes,7,"SolidWorks, Thermodynamics, MATLAB, AutoCAD",None,Research,Mechanical Engineer
+M.Sc,Electrical,6.54,yes,8,"MATLAB, Circuit Design, Embedded Systems",PMP,Manufacturing,Electrical Engineer
+M.Sc,Mechanical,9.79,no,9,"AutoCAD, SolidWorks",PMP,Research,Mechanical Engineer
+B.Sc,Electrical,5.77,no,2,"VHDL, Circuit Design",Six Sigma,Research,Embedded Systems Engineer
+MBA,Mechanical,6.02,no,7,"Thermodynamics, AutoCAD, SolidWorks",None,Research,Design Engineer
+B.Sc,Finance,8.37,no,0,"Risk Analysis, Financial Modeling, SQL, Excel",AWS Certified,Education,Accountant
+MBA,Computer Science,8.92,yes,7,"SQL, Java",AWS Certified,Education,Data Scientist
+M.Sc,Electrical,7.27,no,7,"VHDL, Embedded Systems, C, Circuit Design",PMP,Research,Embedded Systems Engineer
+M.Tech,Computer Science,5.76,no,8,"Python, C++, SQL",Data Science Certificate,IT,Backend Developer
+B.Tech,Finance,8.06,no,5,"SQL, Excel, Accounting, Financial Modeling",None,Finance,Accountant
+M.Sc,Mechanical,8.18,no,7,"MATLAB, Thermodynamics, AutoCAD",AWS Certified,Manufacturing,Mechanical Engineer
+MBA,Finance,9.86,no,3,"Financial Modeling, SQL, Accounting, Excel",Data Science Certificate,IT,Financial Analyst
+B.Sc,Electrical,5.34,no,4,"C, Circuit Design, Embedded Systems, MATLAB",PMP,Education,Electronics Engineer
+B.Sc,Finance,9.28,yes,0,"SQL, Risk Analysis",None,Manufacturing,Accountant
+B.Sc,Economics,9.56,no,6,"R, Statistics",Six Sigma,Manufacturing,Economist
+M.Tech,Computer Science,5.61,no,10,"SQL, Python, C++, Java, Machine Learning",PMP,Education,Backend Developer
+B.Sc,Mechanical,9.59,yes,1,"SolidWorks, AutoCAD",AWS Certified,Manufacturing,Design Engineer
+B.Tech,Economics,6.89,no,3,"Statistics, Econometrics, Data Analysis, Python",Six Sigma,Manufacturing,Business Analyst
+B.Sc,Mechanical,5.31,yes,0,"MATLAB, AutoCAD",PMP,Research,Design Engineer
+M.Tech,Electrical,8.0,yes,3,"C, MATLAB",Data Science Certificate,IT,Embedded Systems Engineer
+M.Sc,Computer Science,7.77,no,2,"C++, SQL, Python, Machine Learning",PMP,Education,Backend Developer
+M.Sc,Electrical,6.23,yes,2,"C, Embedded Systems, VHDL, MATLAB",AWS Certified,Education,Electronics Engineer
+M.Sc,Economics,5.11,yes,5,"Econometrics, R, Statistics",PMP,Education,Business Analyst
+B.Sc,Computer Science,7.46,no,1,"C++, SQL, Python, Java",Six Sigma,Manufacturing,Backend Developer
+MBA,Economics,6.12,no,10,"Econometrics, Python, Data Analysis",Six Sigma,Finance,Economist
+M.Sc,Electrical,5.7,no,8,"C, MATLAB, Embedded Systems",None,Finance,Electronics Engineer
+MBA,Finance,9.56,yes,8,"Excel, Risk Analysis",PMP,Manufacturing,Financial Analyst
+MBA,Electrical,5.47,no,5,"C, MATLAB",None,Education,Electronics Engineer
+M.Sc,Finance,6.94,no,9,"Financial Modeling, Risk Analysis, SQL",Six Sigma,IT,Financial Analyst
+M.Sc,Electrical,8.08,no,0,"Embedded Systems, C, MATLAB, Circuit Design",AWS Certified,Research,Electrical Engineer
+M.Sc,Economics,7.81,yes,10,"Statistics, Python, Econometrics, Data Analysis",Six Sigma,Education,Business Analyst
+B.Sc,Economics,8.57,no,2,"R, Statistics, Python, Data Analysis",PMP,IT,Data Analyst
+B.Sc,Finance,8.15,no,3,"Risk Analysis, SQL, Financial Modeling",Data Science Certificate,IT,Financial Analyst
+M.Tech,Electrical,7.35,yes,8,"MATLAB, VHDL, C",Data Science Certificate,Manufacturing,Electronics Engineer
+M.Sc,Finance,9.48,yes,3,"Accounting, Financial Modeling",Six Sigma,Education,Financial Analyst
+MBA,Economics,9.17,yes,3,"Data Analysis, Python, Statistics, Econometrics",Data Science Certificate,IT,Economist
+M.Sc,Economics,7.16,yes,9,"Data Analysis, Python, Statistics, Econometrics",AWS Certified,IT,Economist
+MBA,Computer Science,9.71,yes,5,"Java, Machine Learning, C++",Data Science Certificate,Education,Backend Developer
+B.Sc,Computer Science,8.55,yes,1,"Python, Java, SQL, Machine Learning, C++",AWS Certified,IT,Data Scientist
+M.Tech,Electrical,9.8,no,6,"C, MATLAB",Six Sigma,Finance,Electronics Engineer
+M.Tech,Economics,8.48,no,0,"Econometrics, Statistics, Data Analysis",None,Research,Data Analyst
+B.Sc,Finance,6.51,yes,3,"Financial Modeling, SQL, Excel, Accounting, Risk Analysis",PMP,Manufacturing,Accountant
+M.Sc,Economics,7.09,no,7,"Python, Econometrics, Statistics, R",AWS Certified,IT,Data Analyst
+B.Tech,Electrical,9.65,yes,9,"VHDL, Circuit Design, Embedded Systems, C",AWS Certified,Finance,Embedded Systems Engineer
+M.Tech,Mechanical,7.29,yes,5,"Thermodynamics, MATLAB, AutoCAD",AWS Certified,Manufacturing,Design Engineer
+B.Sc,Mechanical,8.14,no,8,"AutoCAD, MATLAB, SolidWorks, Thermodynamics",Data Science Certificate,Education,Mechanical Engineer
+M.Tech,Computer Science,10.0,yes,0,"C++, Machine Learning, SQL, Java",Data Science Certificate,Manufacturing,Software Engineer
+M.Sc,Economics,8.56,no,1,"R, Statistics, Python",Six Sigma,Manufacturing,Data Analyst
+B.Sc,Mechanical,7.18,no,2,"MATLAB, AutoCAD, Thermodynamics, SolidWorks",AWS Certified,IT,Design Engineer
+M.Tech,Finance,9.62,yes,4,"Financial Modeling, Excel",AWS Certified,Education,Accountant
+B.Sc,Computer Science,6.87,no,0,"SQL, Java, C++, Python",Data Science Certificate,Research,Backend Developer
+B.Tech,Electrical,9.84,yes,2,"Circuit Design, Embedded Systems",Data Science Certificate,IT,Electrical Engineer
+M.Tech,Mechanical,9.52,no,0,"AutoCAD, MATLAB, SolidWorks",AWS Certified,Finance,Manufacturing Engineer
+MBA,Mechanical,9.76,no,7,"MATLAB, AutoCAD, SolidWorks, Thermodynamics",PMP,Research,Manufacturing Engineer
+M.Sc,Computer Science,9.11,yes,0,"SQL, Java, Python, Machine Learning, C++",Data Science Certificate,IT,Software Engineer
+M.Tech,Computer Science,8.76,yes,2,"Python, Machine Learning, Java",Data Science Certificate,Research,Data Scientist
+B.Tech,Mechanical,8.27,yes,4,"Thermodynamics, MATLAB, AutoCAD, SolidWorks",Six Sigma,Manufacturing,Design Engineer
+M.Tech,Computer Science,8.02,no,0,"Machine Learning, SQL",Six Sigma,Manufacturing,Software Engineer
+M.Sc,Economics,8.61,yes,5,"Data Analysis, R",Data Science Certificate,IT,Business Analyst
+MBA,Economics,7.98,yes,9,"R, Data Analysis",Data Science Certificate,IT,Economist
+MBA,Finance,9.71,no,2,"SQL, Accounting, Excel",None,Manufacturing,Investment Banker
+MBA,Economics,8.65,no,5,"R, Statistics, Data Analysis",Data Science Certificate,Research,Economist
+MBA,Electrical,9.75,yes,0,"C, MATLAB, Embedded Systems",AWS Certified,Manufacturing,Embedded Systems Engineer
+B.Sc,Mechanical,7.83,yes,7,"SolidWorks, AutoCAD, Thermodynamics",PMP,Education,Manufacturing Engineer
+B.Sc,Computer Science,7.05,yes,5,"C++, Machine Learning, SQL, Java, Python",PMP,IT,Data Scientist
+M.Sc,Electrical,9.62,no,4,"VHDL, Circuit Design, MATLAB, Embedded Systems, C",Data Science Certificate,Manufacturing,Electrical Engineer
+MBA,Mechanical,8.14,yes,2,"SolidWorks, MATLAB, Thermodynamics",PMP,IT,Mechanical Engineer
+M.Sc,Computer Science,6.89,yes,9,"C++, Java, Python, SQL, Machine Learning",AWS Certified,Finance,Software Engineer
+B.Tech,Economics,9.76,yes,4,"R, Python, Data Analysis",PMP,IT,Data Analyst
+B.Sc,Finance,9.16,yes,5,"SQL, Accounting, Excel, Financial Modeling, Risk Analysis",None,Research,Accountant
+B.Sc,Electrical,5.63,yes,2,"C, MATLAB, VHDL, Circuit Design, Embedded Systems",None,Education,Electrical Engineer
+B.Sc,Economics,9.97,yes,5,"R, Data Analysis, Python, Statistics",AWS Certified,Manufacturing,Economist
+M.Tech,Computer Science,8.01,yes,5,"Python, SQL, Machine Learning, Java, C++",AWS Certified,IT,Software Engineer
+B.Tech,Finance,9.13,yes,8,"Accounting, Excel, SQL, Financial Modeling, Risk Analysis",Data Science Certificate,Education,Accountant
+B.Tech,Mechanical,8.84,yes,0,"SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Manufacturing,Design Engineer
+B.Tech,Computer Science,8.08,no,6,"Java, SQL, Python",Six Sigma,Finance,Data Scientist
+M.Tech,Economics,6.2,no,2,"Python, Econometrics, Statistics, Data Analysis",Data Science Certificate,Finance,Data Analyst
+M.Sc,Economics,7.81,no,2,"Python, Statistics",Data Science Certificate,Manufacturing,Economist
+MBA,Mechanical,6.2,no,4,"SolidWorks, AutoCAD, MATLAB, Thermodynamics",Data Science Certificate,Manufacturing,Design Engineer
+B.Sc,Mechanical,5.48,no,5,"MATLAB, AutoCAD",Data Science Certificate,Education,Design Engineer
+B.Sc,Finance,9.97,no,9,"Excel, Financial Modeling, Accounting",Data Science Certificate,IT,Financial Analyst
+B.Tech,Electrical,9.38,yes,8,"VHDL, Circuit Design",Six Sigma,Education,Embedded Systems Engineer
+B.Tech,Electrical,7.19,yes,4,"C, VHDL, MATLAB, Circuit Design",Data Science Certificate,Research,Electronics Engineer
+MBA,Economics,7.0,no,10,"Data Analysis, Econometrics, Statistics",Six Sigma,Finance,Economist
+M.Tech,Computer Science,5.18,yes,2,"Java, SQL, C++, Python, Machine Learning",None,IT,Data Scientist
+B.Sc,Electrical,5.36,yes,2,"VHDL, C, MATLAB, Embedded Systems, Circuit Design",Data Science Certificate,Research,Embedded Systems Engineer
+MBA,Electrical,8.38,no,5,"MATLAB, Circuit Design, VHDL, Embedded Systems, C",None,Manufacturing,Electrical Engineer
+B.Sc,Mechanical,7.33,yes,6,"AutoCAD, MATLAB, SolidWorks, Thermodynamics",PMP,Education,Design Engineer
+MBA,Electrical,7.66,no,0,"Embedded Systems, VHDL",Data Science Certificate,Finance,Electronics Engineer
+MBA,Finance,9.51,yes,3,"Financial Modeling, Accounting, Excel, SQL",AWS Certified,Manufacturing,Financial Analyst
+B.Sc,Finance,7.09,yes,8,"Financial Modeling, Excel, SQL, Risk Analysis",Six Sigma,Education,Financial Analyst
+MBA,Electrical,8.75,yes,10,"Embedded Systems, Circuit Design",Six Sigma,Education,Electrical Engineer
+B.Sc,Electrical,9.05,no,9,"VHDL, MATLAB, C, Circuit Design, Embedded Systems",PMP,Education,Embedded Systems Engineer
+B.Tech,Economics,8.66,no,7,"Statistics, Python, Econometrics",Six Sigma,Research,Economist
+B.Sc,Economics,5.36,yes,5,"Data Analysis, R, Python",None,IT,Data Analyst
+M.Tech,Finance,9.18,no,0,"Accounting, Financial Modeling, SQL",Six Sigma,IT,Accountant
+M.Tech,Economics,9.53,no,2,"Statistics, Econometrics, R",Data Science Certificate,IT,Economist
+MBA,Finance,7.81,yes,3,"Financial Modeling, Excel, Risk Analysis, Accounting, SQL",None,Education,Financial Analyst
+M.Sc,Electrical,8.38,yes,5,"C, Circuit Design",None,Education,Electronics Engineer
+B.Tech,Electrical,9.71,yes,9,"Circuit Design, VHDL, Embedded Systems, C",AWS Certified,Education,Embedded Systems Engineer
+B.Tech,Finance,6.03,no,4,"Accounting, Excel",AWS Certified,Finance,Accountant
+MBA,Economics,9.12,yes,2,"R, Data Analysis",PMP,Education,Data Analyst
+MBA,Economics,5.6,no,7,"Statistics, Econometrics, R",Data Science Certificate,Research,Business Analyst
+M.Sc,Electrical,8.87,no,10,"Embedded Systems, MATLAB, Circuit Design, C, VHDL",None,Manufacturing,Electronics Engineer
+M.Sc,Electrical,9.16,no,10,"Circuit Design, C, MATLAB",Data Science Certificate,Education,Embedded Systems Engineer
+M.Sc,Electrical,9.63,no,5,"Circuit Design, VHDL, Embedded Systems, MATLAB, C",AWS Certified,Research,Electronics Engineer
+B.Tech,Economics,7.02,no,1,"R, Statistics, Python, Data Analysis, Econometrics",None,Research,Business Analyst
+M.Sc,Finance,8.1,yes,2,"SQL, Financial Modeling, Excel, Accounting",PMP,Education,Financial Analyst
+M.Sc,Economics,7.34,yes,7,"Statistics, Econometrics, Data Analysis, R",Data Science Certificate,Research,Business Analyst
+M.Tech,Mechanical,6.87,yes,3,"AutoCAD, MATLAB",Data Science Certificate,IT,Design Engineer
+MBA,Computer Science,7.93,yes,4,"C++, Java, Python",PMP,Manufacturing,Backend Developer
+M.Tech,Mechanical,7.35,no,0,"Thermodynamics, MATLAB",AWS Certified,Research,Manufacturing Engineer
+B.Tech,Finance,6.96,yes,3,"Accounting, Financial Modeling",Data Science Certificate,Education,Financial Analyst
+M.Sc,Finance,5.44,no,2,"Risk Analysis, SQL, Excel",PMP,Manufacturing,Financial Analyst
+B.Sc,Finance,5.75,yes,1,"Accounting, Excel, Risk Analysis",PMP,Manufacturing,Financial Analyst
+M.Sc,Mechanical,8.48,yes,2,"Thermodynamics, MATLAB, SolidWorks",Data Science Certificate,Research,Design Engineer
+M.Sc,Computer Science,8.71,no,0,"SQL, C++, Machine Learning",Data Science Certificate,IT,Backend Developer
+M.Tech,Mechanical,9.79,no,8,"MATLAB, Thermodynamics",None,IT,Design Engineer
+M.Sc,Electrical,8.6,yes,8,"Embedded Systems, C, Circuit Design, VHDL, MATLAB",Six Sigma,Research,Electrical Engineer
+M.Sc,Economics,9.04,yes,5,"Statistics, Python, R, Data Analysis",AWS Certified,IT,Data Analyst
+B.Sc,Mechanical,8.18,yes,7,"Thermodynamics, MATLAB, SolidWorks",AWS Certified,Education,Manufacturing Engineer
+MBA,Economics,6.25,yes,8,"Statistics, R",Six Sigma,Education,Data Analyst
+B.Sc,Finance,7.67,no,1,"Financial Modeling, Excel, Risk Analysis, SQL",AWS Certified,Education,Investment Banker
+M.Sc,Mechanical,5.14,yes,10,"AutoCAD, Thermodynamics",PMP,Education,Manufacturing Engineer
+B.Sc,Electrical,9.2,yes,5,"Embedded Systems, MATLAB, VHDL, Circuit Design",None,Research,Electronics Engineer
+B.Sc,Finance,8.64,no,10,"SQL, Excel, Risk Analysis",Six Sigma,IT,Investment Banker
+M.Tech,Mechanical,8.35,yes,3,"Thermodynamics, SolidWorks",AWS Certified,Finance,Manufacturing Engineer
+B.Tech,Computer Science,6.46,yes,0,"Machine Learning, Python, Java",Data Science Certificate,Manufacturing,Backend Developer
+M.Tech,Mechanical,5.89,yes,3,"SolidWorks, Thermodynamics, MATLAB, AutoCAD",None,Manufacturing,Manufacturing Engineer
+B.Tech,Economics,5.02,yes,5,"Statistics, Python, R",PMP,Finance,Business Analyst
+M.Sc,Finance,7.16,yes,10,"Risk Analysis, SQL, Financial Modeling, Accounting",AWS Certified,IT,Investment Banker
+MBA,Mechanical,5.33,yes,1,"AutoCAD, Thermodynamics",AWS Certified,Manufacturing,Mechanical Engineer
+M.Tech,Computer Science,9.0,no,1,"C++, Machine Learning, Java, Python, SQL",Six Sigma,IT,Backend Developer
+M.Sc,Computer Science,7.36,no,5,"SQL, Python, Java, C++, Machine Learning",Six Sigma,IT,Backend Developer
+M.Tech,Finance,7.47,no,9,"Financial Modeling, Accounting, Risk Analysis, Excel",Data Science Certificate,Education,Investment Banker
+M.Sc,Economics,7.5,yes,0,"Data Analysis, Econometrics, R, Statistics, Python",None,Education,Economist
+MBA,Economics,9.12,yes,8,"Statistics, Python, R, Data Analysis",AWS Certified,Finance,Business Analyst
+MBA,Economics,6.63,yes,3,"Econometrics, R, Python",Data Science Certificate,Finance,Economist
+M.Sc,Economics,5.38,yes,3,"Econometrics, Data Analysis",PMP,Education,Economist
+B.Tech,Computer Science,9.87,yes,6,"Java, C++, Machine Learning, Python, SQL",PMP,Education,Data Scientist
+M.Sc,Electrical,7.32,yes,2,"MATLAB, Circuit Design, VHDL, C, Embedded Systems",None,Research,Electronics Engineer
+B.Sc,Finance,7.05,no,2,"Financial Modeling, Risk Analysis, Excel, SQL, Accounting",Data Science Certificate,IT,Investment Banker
+MBA,Mechanical,5.53,yes,0,"MATLAB, AutoCAD",None,Finance,Design Engineer
+MBA,Economics,7.0,yes,4,"Python, Econometrics, R, Data Analysis",PMP,Manufacturing,Business Analyst
+MBA,Mechanical,8.05,no,2,"SolidWorks, AutoCAD, MATLAB, Thermodynamics",PMP,Manufacturing,Design Engineer
+M.Tech,Computer Science,9.74,no,10,"SQL, Machine Learning, Python, C++, Java",PMP,Manufacturing,Data Scientist
+B.Sc,Electrical,8.04,no,9,"Embedded Systems, Circuit Design",AWS Certified,IT,Embedded Systems Engineer
+B.Sc,Electrical,8.19,yes,3,"Embedded Systems, Circuit Design, VHDL, C",PMP,Manufacturing,Electronics Engineer
+B.Tech,Economics,7.36,no,4,"Econometrics, Data Analysis, R",None,Manufacturing,Data Analyst
+B.Sc,Electrical,9.18,no,2,"C, Embedded Systems, VHDL, Circuit Design, MATLAB",AWS Certified,Finance,Electronics Engineer
+M.Tech,Computer Science,9.31,no,0,"C++, Java",Six Sigma,IT,Software Engineer
+B.Tech,Computer Science,7.76,no,0,"Python, Java",None,Research,Software Engineer
+B.Sc,Economics,7.39,yes,10,"R, Data Analysis, Econometrics",Data Science Certificate,Education,Data Analyst
+MBA,Electrical,9.46,yes,8,"Circuit Design, C, MATLAB, VHDL, Embedded Systems",None,Research,Electronics Engineer
+B.Tech,Electrical,5.29,yes,2,"MATLAB, Embedded Systems, VHDL, Circuit Design, C",PMP,Finance,Electronics Engineer
+MBA,Computer Science,5.87,no,3,"SQL, Java, Python, C++",Six Sigma,Manufacturing,Backend Developer
+B.Tech,Economics,8.14,no,10,"Python, R, Econometrics",None,Research,Data Analyst
+B.Sc,Computer Science,8.27,yes,7,"SQL, Python, Java, C++",PMP,Finance,Backend Developer
+B.Tech,Economics,5.58,yes,7,"R, Python, Data Analysis, Statistics",AWS Certified,IT,Business Analyst
+MBA,Finance,5.86,yes,2,"Financial Modeling, SQL, Excel, Accounting, Risk Analysis",Six Sigma,Finance,Accountant
+MBA,Electrical,7.46,yes,8,"MATLAB, C, Circuit Design, Embedded Systems",None,IT,Embedded Systems Engineer
+M.Sc,Computer Science,7.59,yes,4,"Java, SQL, Machine Learning, Python, C++",PMP,Education,Data Scientist
+M.Sc,Computer Science,5.62,no,1,"Java, Python, Machine Learning, SQL, C++",None,Research,Software Engineer
+MBA,Economics,8.16,yes,9,"R, Econometrics, Data Analysis, Python, Statistics",AWS Certified,IT,Business Analyst
+M.Tech,Finance,7.81,yes,3,"SQL, Excel, Financial Modeling, Accounting, Risk Analysis",Data Science Certificate,Finance,Financial Analyst
+B.Sc,Computer Science,8.79,no,9,"C++, SQL",None,IT,Data Scientist
+M.Sc,Mechanical,6.16,no,8,"Thermodynamics, AutoCAD, MATLAB, SolidWorks",Six Sigma,Education,Manufacturing Engineer
+B.Tech,Finance,7.38,yes,2,"Financial Modeling, Excel, SQL, Accounting",None,Manufacturing,Accountant
+MBA,Economics,9.8,yes,2,"Data Analysis, R, Statistics, Econometrics",PMP,Education,Data Analyst
+M.Sc,Finance,7.96,yes,7,"Excel, Risk Analysis, Accounting, SQL, Financial Modeling",AWS Certified,Manufacturing,Investment Banker
+B.Tech,Economics,7.88,yes,1,"R, Econometrics, Statistics",None,Finance,Data Analyst
+B.Sc,Finance,5.97,yes,0,"SQL, Risk Analysis",None,IT,Financial Analyst
+M.Tech,Electrical,7.85,yes,2,"Circuit Design, C, Embedded Systems",Data Science Certificate,Manufacturing,Electronics Engineer
+MBA,Economics,7.38,no,2,"Statistics, Econometrics, Data Analysis, Python",PMP,Finance,Data Analyst
+B.Tech,Finance,5.99,no,2,"Risk Analysis, Accounting, Financial Modeling, Excel, SQL",Six Sigma,Finance,Accountant
+B.Tech,Electrical,9.75,yes,9,"Embedded Systems, MATLAB, Circuit Design",None,Education,Embedded Systems Engineer
+B.Sc,Finance,7.89,no,6,"SQL, Excel, Accounting, Financial Modeling",None,Education,Investment Banker
+B.Tech,Finance,7.55,no,0,"Excel, Accounting, SQL, Risk Analysis, Financial Modeling",PMP,Finance,Financial Analyst
+M.Sc,Computer Science,9.91,yes,6,"Machine Learning, SQL, Java",PMP,IT,Software Engineer
+M.Sc,Mechanical,8.52,yes,1,"SolidWorks, AutoCAD, MATLAB",None,Finance,Design Engineer
+M.Sc,Electrical,6.67,no,6,"MATLAB, VHDL, Circuit Design",PMP,Manufacturing,Electronics Engineer
+MBA,Computer Science,7.57,no,2,"Machine Learning, Python, C++, SQL",Data Science Certificate,Education,Data Scientist
+M.Tech,Mechanical,9.01,no,5,"SolidWorks, MATLAB, Thermodynamics",None,Finance,Manufacturing Engineer
+M.Sc,Finance,6.37,no,9,"Excel, SQL, Risk Analysis, Accounting, Financial Modeling",PMP,Finance,Investment Banker
+MBA,Mechanical,6.06,yes,7,"SolidWorks, Thermodynamics",Data Science Certificate,Finance,Design Engineer
+B.Tech,Mechanical,7.21,yes,5,"Thermodynamics, MATLAB, AutoCAD, SolidWorks",None,Research,Manufacturing Engineer
+MBA,Economics,6.66,no,7,"Data Analysis, R, Econometrics, Python, Statistics",PMP,IT,Business Analyst
+MBA,Finance,6.95,no,9,"Financial Modeling, Excel, Risk Analysis",Six Sigma,Manufacturing,Investment Banker
+M.Tech,Computer Science,7.15,no,4,"Java, Machine Learning, Python, C++",Data Science Certificate,Manufacturing,Backend Developer
+MBA,Computer Science,9.81,no,9,"Machine Learning, SQL, Java",Six Sigma,Manufacturing,Software Engineer
+B.Tech,Computer Science,7.7,no,6,"C++, Python, SQL",Six Sigma,Finance,Software Engineer
+M.Tech,Computer Science,9.0,yes,2,"Python, C++",PMP,Finance,Data Scientist
+B.Sc,Electrical,8.17,no,7,"MATLAB, C",PMP,Research,Electronics Engineer
+B.Tech,Finance,6.91,yes,7,"Accounting, Financial Modeling, Excel, SQL",AWS Certified,Manufacturing,Financial Analyst
+B.Sc,Economics,7.94,yes,3,"Econometrics, Statistics",AWS Certified,Finance,Data Analyst
+B.Sc,Computer Science,7.5,yes,2,"SQL, C++, Java, Machine Learning",Data Science Certificate,Finance,Backend Developer
+B.Tech,Finance,8.0,yes,3,"Risk Analysis, Accounting, Excel, Financial Modeling",PMP,Education,Financial Analyst
+MBA,Electrical,7.38,yes,0,"VHDL, Embedded Systems, C, Circuit Design, MATLAB",AWS Certified,IT,Electrical Engineer
+B.Sc,Electrical,6.25,yes,5,"C, VHDL, Embedded Systems, Circuit Design",Data Science Certificate,Finance,Electrical Engineer
+M.Tech,Finance,9.42,no,6,"Risk Analysis, Excel, SQL, Financial Modeling, Accounting",AWS Certified,Research,Financial Analyst
+M.Tech,Mechanical,7.9,no,7,"AutoCAD, Thermodynamics",None,Finance,Mechanical Engineer
+M.Tech,Computer Science,5.8,no,10,"Java, Python",Six Sigma,Education,Backend Developer
+M.Sc,Mechanical,5.21,yes,10,"Thermodynamics, MATLAB, AutoCAD",Data Science Certificate,Research,Design Engineer
+B.Tech,Computer Science,5.5,no,3,"Machine Learning, C++",AWS Certified,Education,Software Engineer
+M.Tech,Mechanical,6.89,yes,10,"MATLAB, SolidWorks, Thermodynamics",PMP,Education,Design Engineer
+B.Tech,Mechanical,8.91,yes,10,"MATLAB, Thermodynamics, SolidWorks",None,Finance,Design Engineer
+B.Tech,Electrical,5.87,yes,8,"Embedded Systems, C, Circuit Design, MATLAB, VHDL",Six Sigma,Manufacturing,Embedded Systems Engineer
+M.Sc,Mechanical,7.44,no,5,"MATLAB, AutoCAD, SolidWorks",AWS Certified,Research,Manufacturing Engineer
+B.Sc,Electrical,7.03,no,2,"C, Embedded Systems, Circuit Design, VHDL",Six Sigma,IT,Electrical Engineer
+B.Sc,Computer Science,5.7,yes,9,"Java, Python",PMP,Research,Software Engineer
+B.Tech,Electrical,5.42,no,1,"Embedded Systems, C",AWS Certified,IT,Electrical Engineer
+M.Sc,Mechanical,9.34,yes,5,"Thermodynamics, MATLAB, SolidWorks, AutoCAD",Six Sigma,Finance,Design Engineer
+M.Sc,Mechanical,6.41,no,9,"Thermodynamics, MATLAB, AutoCAD, SolidWorks",Six Sigma,Research,Mechanical Engineer
+B.Tech,Economics,8.06,yes,10,"Statistics, Data Analysis, Econometrics",Data Science Certificate,Finance,Business Analyst
+B.Sc,Finance,6.79,yes,7,"SQL, Accounting",None,Research,Investment Banker
+B.Tech,Mechanical,5.72,no,8,"SolidWorks, AutoCAD, MATLAB, Thermodynamics",None,Finance,Mechanical Engineer
+M.Sc,Mechanical,7.02,no,2,"SolidWorks, MATLAB, AutoCAD, Thermodynamics",Data Science Certificate,Manufacturing,Design Engineer
+M.Sc,Finance,5.78,yes,7,"Risk Analysis, Excel, Accounting",Data Science Certificate,IT,Accountant
+M.Sc,Economics,5.22,yes,8,"Python, Econometrics, Data Analysis, R",None,Manufacturing,Economist
+M.Sc,Electrical,6.58,yes,5,"MATLAB, Circuit Design, Embedded Systems, VHDL, C",PMP,Manufacturing,Electronics Engineer
+B.Tech,Electrical,6.14,yes,9,"MATLAB, VHDL, C",PMP,Manufacturing,Electronics Engineer
+M.Tech,Computer Science,9.55,no,0,"Java, C++",AWS Certified,Manufacturing,Data Scientist
+M.Tech,Economics,9.65,yes,4,"Econometrics, Statistics, R",Six Sigma,Manufacturing,Data Analyst
+M.Sc,Finance,6.79,no,6,"Risk Analysis, Financial Modeling, Excel, Accounting",Six Sigma,Finance,Accountant
+B.Tech,Electrical,9.03,no,9,"Embedded Systems, Circuit Design, MATLAB, VHDL",None,IT,Electronics Engineer
+M.Sc,Mechanical,9.62,no,9,"SolidWorks, MATLAB, Thermodynamics",PMP,Education,Design Engineer
+B.Tech,Electrical,7.62,no,9,"C, VHDL",Data Science Certificate,Finance,Embedded Systems Engineer
+B.Tech,Electrical,5.55,no,7,"Embedded Systems, MATLAB",Six Sigma,Finance,Embedded Systems Engineer
+MBA,Finance,9.81,yes,5,"Accounting, Risk Analysis, Financial Modeling",AWS Certified,Finance,Financial Analyst
+B.Tech,Computer Science,7.45,yes,3,"Machine Learning, Python",Data Science Certificate,Education,Backend Developer
+M.Sc,Economics,6.24,no,2,"R, Statistics, Econometrics, Data Analysis",None,IT,Economist
+B.Tech,Mechanical,8.36,yes,10,"MATLAB, Thermodynamics",Data Science Certificate,Manufacturing,Mechanical Engineer
+B.Tech,Mechanical,5.39,no,2,"AutoCAD, MATLAB, SolidWorks",PMP,Education,Manufacturing Engineer
+MBA,Mechanical,9.66,yes,1,"AutoCAD, SolidWorks, MATLAB",None,Manufacturing,Mechanical Engineer
+M.Sc,Mechanical,6.11,no,1,"Thermodynamics, MATLAB",None,Manufacturing,Manufacturing Engineer
+MBA,Mechanical,7.86,no,3,"MATLAB, AutoCAD, Thermodynamics, SolidWorks",Data Science Certificate,Education,Mechanical Engineer
+B.Tech,Finance,5.93,no,9,"SQL, Risk Analysis, Accounting",AWS Certified,IT,Investment Banker
+M.Tech,Finance,6.57,yes,1,"Risk Analysis, Accounting, Financial Modeling, Excel, SQL",AWS Certified,Manufacturing,Accountant
+B.Sc,Computer Science,7.77,yes,10,"Machine Learning, Java, Python, C++, SQL",PMP,IT,Data Scientist
+MBA,Finance,9.58,yes,0,"Accounting, Risk Analysis, Excel, SQL, Financial Modeling",PMP,Research,Financial Analyst
+B.Sc,Economics,5.32,yes,10,"Econometrics, Python, Data Analysis",PMP,IT,Data Analyst
+MBA,Economics,9.67,yes,8,"Econometrics, R, Statistics, Python",Data Science Certificate,Research,Economist
+M.Sc,Computer Science,8.57,yes,10,"Python, C++, Java, SQL",Six Sigma,Education,Software Engineer
+M.Tech,Electrical,5.27,no,4,"Embedded Systems, VHDL",Six Sigma,Research,Electrical Engineer
+B.Tech,Mechanical,5.26,no,3,"Thermodynamics, MATLAB",AWS Certified,Finance,Design Engineer
+M.Sc,Finance,5.61,yes,6,"Risk Analysis, Excel, SQL, Financial Modeling",Data Science Certificate,IT,Investment Banker
+B.Sc,Finance,8.34,no,0,"Accounting, Excel",PMP,Finance,Accountant
+B.Tech,Computer Science,6.78,no,7,"C++, Java, SQL, Python, Machine Learning",Data Science Certificate,Research,Software Engineer
+B.Sc,Electrical,8.33,yes,5,"Embedded Systems, VHDL, MATLAB",Data Science Certificate,IT,Electrical Engineer
+M.Tech,Finance,7.92,no,10,"Risk Analysis, SQL, Financial Modeling",Six Sigma,IT,Investment Banker
+M.Sc,Economics,8.9,no,2,"R, Data Analysis",AWS Certified,Education,Economist
+B.Sc,Electrical,6.19,yes,7,"MATLAB, Circuit Design, VHDL",PMP,Finance,Electronics Engineer
+MBA,Computer Science,8.41,yes,5,"Java, Python, SQL, Machine Learning, C++",None,IT,Software Engineer
+B.Sc,Mechanical,9.58,no,2,"Thermodynamics, MATLAB, SolidWorks",AWS Certified,IT,Mechanical Engineer
+M.Tech,Computer Science,8.9,no,9,"Machine Learning, Java, Python",AWS Certified,IT,Software Engineer
+B.Sc,Economics,5.45,no,3,"Econometrics, Python",AWS Certified,Education,Business Analyst
+M.Tech,Electrical,7.17,no,2,"Circuit Design, MATLAB, C, Embedded Systems, VHDL",Data Science Certificate,Manufacturing,Embedded Systems Engineer
+M.Sc,Mechanical,8.12,no,8,"SolidWorks, AutoCAD, Thermodynamics, MATLAB",AWS Certified,IT,Manufacturing Engineer
+B.Tech,Electrical,7.1,yes,9,"Circuit Design, C",None,Manufacturing,Electrical Engineer
+B.Tech,Mechanical,7.85,no,8,"Thermodynamics, MATLAB",PMP,Manufacturing,Mechanical Engineer
+B.Tech,Computer Science,5.09,yes,8,"SQL, Machine Learning, C++, Java",PMP,IT,Software Engineer
+MBA,Finance,8.36,no,10,"Risk Analysis, Accounting, Excel",Data Science Certificate,Manufacturing,Financial Analyst
+MBA,Economics,7.34,yes,0,"R, Data Analysis, Python",Six Sigma,IT,Business Analyst
+B.Tech,Finance,6.16,yes,2,"Financial Modeling, Excel",AWS Certified,Finance,Financial Analyst
+M.Tech,Electrical,8.29,yes,3,"MATLAB, C, VHDL",Data Science Certificate,Education,Electronics Engineer
+B.Sc,Finance,5.25,yes,3,"SQL, Excel, Accounting, Financial Modeling",Data Science Certificate,Manufacturing,Financial Analyst
+MBA,Mechanical,9.8,yes,0,"AutoCAD, Thermodynamics, SolidWorks, MATLAB",None,IT,Mechanical Engineer
+M.Sc,Mechanical,8.6,no,0,"AutoCAD, SolidWorks, MATLAB",None,IT,Mechanical Engineer
+M.Sc,Mechanical,5.69,yes,0,"Thermodynamics, SolidWorks",PMP,Research,Design Engineer
+MBA,Finance,7.28,yes,8,"Financial Modeling, Accounting",Data Science Certificate,IT,Investment Banker
+M.Sc,Mechanical,5.57,no,0,"AutoCAD, SolidWorks, MATLAB, Thermodynamics",None,IT,Design Engineer
+M.Tech,Mechanical,7.02,yes,2,"AutoCAD, Thermodynamics",Six Sigma,IT,Design Engineer
+MBA,Electrical,8.12,yes,9,"VHDL, MATLAB, Embedded Systems, C",Six Sigma,Education,Electrical Engineer
+B.Sc,Mechanical,5.49,no,10,"Thermodynamics, AutoCAD",AWS Certified,Research,Mechanical Engineer
+B.Tech,Finance,9.85,yes,7,"Financial Modeling, Excel",AWS Certified,Education,Financial Analyst
+M.Tech,Electrical,5.6,yes,8,"C, MATLAB, Circuit Design, VHDL",Data Science Certificate,Manufacturing,Electrical Engineer
+M.Tech,Finance,9.07,no,8,"Financial Modeling, Risk Analysis, SQL",AWS Certified,IT,Accountant
+B.Sc,Finance,7.95,yes,1,"SQL, Accounting, Risk Analysis, Financial Modeling, Excel",AWS Certified,Manufacturing,Financial Analyst
+M.Tech,Finance,7.5,no,6,"Accounting, Risk Analysis",Six Sigma,Education,Accountant
+M.Tech,Mechanical,5.02,yes,9,"SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Research,Design Engineer
+M.Tech,Computer Science,8.12,yes,10,"Java, SQL, Machine Learning, Python, C++",Six Sigma,Research,Backend Developer
+M.Tech,Finance,8.2,yes,5,"SQL, Risk Analysis, Financial Modeling, Excel, Accounting",Data Science Certificate,Education,Investment Banker
+M.Sc,Electrical,6.61,yes,5,"MATLAB, Circuit Design, C, Embedded Systems",AWS Certified,Manufacturing,Electronics Engineer
+B.Sc,Economics,7.29,yes,0,"Data Analysis, Statistics, Python, Econometrics, R",Data Science Certificate,Manufacturing,Data Analyst
+B.Tech,Mechanical,6.1,no,5,"AutoCAD, SolidWorks",PMP,Manufacturing,Manufacturing Engineer
+MBA,Electrical,9.97,yes,1,"Embedded Systems, Circuit Design, VHDL, MATLAB, C",PMP,IT,Electronics Engineer
+M.Tech,Finance,9.04,yes,3,"Financial Modeling, SQL, Risk Analysis",Data Science Certificate,IT,Investment Banker
+B.Tech,Computer Science,6.12,no,10,"Python, Machine Learning, SQL, Java",None,Research,Data Scientist
+B.Sc,Mechanical,8.61,yes,5,"SolidWorks, MATLAB",AWS Certified,IT,Mechanical Engineer
+M.Sc,Economics,6.44,yes,10,"Python, Econometrics, Data Analysis, R, Statistics",Data Science Certificate,Education,Economist
+M.Tech,Economics,7.48,no,6,"Econometrics, Statistics, R, Python, Data Analysis",AWS Certified,Finance,Economist
+B.Tech,Finance,5.64,no,4,"Accounting, Risk Analysis, SQL",None,Education,Investment Banker
+MBA,Electrical,5.46,yes,0,"MATLAB, C, Embedded Systems",None,Education,Electronics Engineer
+B.Sc,Economics,7.18,yes,8,"Python, Statistics",PMP,IT,Economist
+B.Sc,Economics,9.93,no,1,"Econometrics, Python, R, Data Analysis",None,Manufacturing,Economist
+MBA,Computer Science,9.28,yes,3,"SQL, Java",Six Sigma,Education,Backend Developer
+M.Tech,Mechanical,9.41,yes,6,"MATLAB, SolidWorks, AutoCAD, Thermodynamics",None,Research,Design Engineer
+MBA,Electrical,6.82,no,3,"Embedded Systems, MATLAB, Circuit Design, C",Six Sigma,Manufacturing,Electrical Engineer
+MBA,Finance,6.38,no,5,"Financial Modeling, SQL",Six Sigma,Manufacturing,Accountant
+B.Tech,Economics,9.82,no,7,"Data Analysis, Python, Statistics, R, Econometrics",AWS Certified,Manufacturing,Data Analyst
+M.Sc,Electrical,8.19,yes,0,"C, VHDL, Circuit Design, Embedded Systems",PMP,Research,Electronics Engineer
+M.Tech,Computer Science,5.7,no,5,"C++, Machine Learning, SQL",None,Research,Software Engineer
+B.Sc,Computer Science,5.42,no,4,"SQL, Machine Learning",AWS Certified,IT,Software Engineer
+B.Tech,Mechanical,5.19,no,10,"MATLAB, AutoCAD",None,Manufacturing,Manufacturing Engineer
+M.Tech,Finance,7.39,no,1,"Financial Modeling, SQL, Excel, Risk Analysis",PMP,Finance,Investment Banker
+B.Tech,Finance,8.83,yes,5,"Risk Analysis, Financial Modeling",AWS Certified,Research,Financial Analyst
+B.Sc,Computer Science,8.59,no,6,"Java, SQL",Six Sigma,Manufacturing,Software Engineer
+B.Tech,Computer Science,5.21,yes,0,"C++, SQL, Java, Python",None,Research,Data Scientist
+B.Sc,Finance,8.88,no,3,"Excel, Accounting, Financial Modeling, SQL",AWS Certified,Education,Investment Banker
+M.Sc,Economics,7.47,no,8,"Econometrics, Statistics",AWS Certified,IT,Economist
+M.Sc,Mechanical,9.31,yes,9,"AutoCAD, SolidWorks",PMP,IT,Design Engineer
+MBA,Economics,9.58,no,3,"Python, Data Analysis, Econometrics, Statistics, R",AWS Certified,Research,Data Analyst
+M.Tech,Finance,6.04,yes,3,"Accounting, Excel, Financial Modeling, Risk Analysis",AWS Certified,Research,Investment Banker
+B.Sc,Economics,8.42,no,5,"Econometrics, R, Data Analysis, Statistics",Data Science Certificate,IT,Data Analyst
+M.Tech,Electrical,9.59,yes,1,"MATLAB, VHDL",Data Science Certificate,IT,Electrical Engineer
+M.Tech,Electrical,8.79,no,5,"MATLAB, Embedded Systems, VHDL, C",AWS Certified,Research,Embedded Systems Engineer
+B.Tech,Mechanical,9.77,yes,6,"Thermodynamics, AutoCAD, SolidWorks, MATLAB",PMP,Finance,Design Engineer
+M.Sc,Finance,5.78,no,7,"Risk Analysis, Excel, SQL, Financial Modeling, Accounting",Data Science Certificate,Research,Accountant
+M.Sc,Computer Science,7.46,yes,7,"Machine Learning, Python, C++, SQL, Java",Data Science Certificate,IT,Backend Developer
+M.Sc,Economics,7.55,no,6,"Statistics, Python, Econometrics, Data Analysis, R",AWS Certified,IT,Business Analyst
+MBA,Finance,7.76,yes,2,"Risk Analysis, Accounting, SQL",PMP,Manufacturing,Financial Analyst
+M.Sc,Electrical,8.63,no,2,"Embedded Systems, C",Six Sigma,Education,Electronics Engineer
+M.Tech,Electrical,8.12,no,0,"C, Circuit Design, VHDL",Six Sigma,Manufacturing,Electronics Engineer
+MBA,Mechanical,5.53,no,3,"MATLAB, Thermodynamics, AutoCAD, SolidWorks",AWS Certified,Manufacturing,Mechanical Engineer
+MBA,Mechanical,7.2,no,0,"MATLAB, Thermodynamics, AutoCAD",PMP,Manufacturing,Mechanical Engineer
+M.Sc,Finance,9.51,yes,7,"Financial Modeling, Risk Analysis, SQL",None,Education,Financial Analyst
+B.Tech,Electrical,8.7,no,7,"Embedded Systems, C, Circuit Design, MATLAB",Data Science Certificate,Finance,Electronics Engineer
+M.Tech,Finance,5.22,yes,5,"Accounting, Excel, Risk Analysis, Financial Modeling, SQL",PMP,Research,Financial Analyst
+B.Sc,Computer Science,8.76,yes,5,"Python, C++, SQL, Machine Learning, Java",None,IT,Backend Developer
+B.Sc,Economics,8.39,yes,10,"Data Analysis, Statistics",PMP,IT,Data Analyst
+MBA,Finance,9.42,yes,4,"Financial Modeling, Excel, Accounting, Risk Analysis, SQL",Six Sigma,Education,Investment Banker
+MBA,Finance,8.99,yes,0,"Accounting, Financial Modeling, Excel",Data Science Certificate,Manufacturing,Investment Banker
+B.Sc,Electrical,8.29,no,3,"C, MATLAB, VHDL",Six Sigma,Education,Electronics Engineer
+B.Tech,Electrical,8.98,no,0,"MATLAB, VHDL, C, Circuit Design, Embedded Systems",AWS Certified,Education,Embedded Systems Engineer
+MBA,Finance,6.9,no,6,"SQL, Financial Modeling, Accounting, Risk Analysis, Excel",Six Sigma,Finance,Financial Analyst
+B.Tech,Mechanical,8.67,no,3,"Thermodynamics, SolidWorks",AWS Certified,Manufacturing,Manufacturing Engineer
+B.Sc,Electrical,7.37,no,5,"VHDL, C, MATLAB, Circuit Design",AWS Certified,Education,Electrical Engineer
+M.Tech,Mechanical,7.44,yes,4,"MATLAB, Thermodynamics, AutoCAD",PMP,Research,Mechanical Engineer
+MBA,Economics,6.87,no,4,"Python, Data Analysis, Econometrics, Statistics, R",Six Sigma,Education,Economist
+M.Sc,Economics,6.96,no,8,"R, Statistics",Six Sigma,Finance,Data Analyst
+M.Sc,Finance,6.73,no,2,"Risk Analysis, Financial Modeling, SQL, Accounting",Six Sigma,Manufacturing,Investment Banker
+M.Tech,Finance,8.47,no,1,"SQL, Excel, Risk Analysis, Accounting",PMP,Research,Financial Analyst
+B.Tech,Finance,7.03,no,7,"Excel, SQL, Risk Analysis, Accounting",None,Research,Investment Banker
+M.Sc,Electrical,7.07,no,8,"MATLAB, Circuit Design, VHDL, Embedded Systems, C",PMP,IT,Electrical Engineer
+B.Sc,Economics,8.69,no,5,"Econometrics, R, Data Analysis",Six Sigma,Education,Business Analyst
+M.Tech,Economics,5.99,yes,1,"Statistics, Econometrics",AWS Certified,Manufacturing,Data Analyst
+B.Sc,Electrical,7.48,yes,5,"Circuit Design, MATLAB, Embedded Systems, C",PMP,Research,Electrical Engineer
+B.Sc,Computer Science,7.5,no,4,"Machine Learning, Java, C++, SQL, Python",None,Finance,Backend Developer
+MBA,Economics,7.0,yes,3,"Python, Econometrics",AWS Certified,IT,Data Analyst
+B.Sc,Mechanical,6.8,yes,7,"SolidWorks, Thermodynamics, MATLAB, AutoCAD",Six Sigma,Manufacturing,Manufacturing Engineer
+B.Sc,Mechanical,8.9,yes,3,"SolidWorks, MATLAB, AutoCAD, Thermodynamics",Data Science Certificate,Research,Design Engineer
+B.Sc,Computer Science,9.98,no,7,"Python, SQL, Java, Machine Learning, C++",Six Sigma,Research,Software Engineer
+MBA,Finance,6.34,no,0,"Accounting, Financial Modeling",PMP,IT,Investment Banker
+MBA,Finance,5.93,yes,6,"Accounting, Excel, Financial Modeling",AWS Certified,Finance,Financial Analyst
+MBA,Finance,5.27,yes,10,"Financial Modeling, Accounting, Risk Analysis",AWS Certified,Research,Financial Analyst
+B.Tech,Economics,6.29,no,1,"Econometrics, Statistics, Python",Six Sigma,Research,Data Analyst
+B.Tech,Mechanical,7.62,no,10,"Thermodynamics, SolidWorks, AutoCAD",PMP,Finance,Manufacturing Engineer
+M.Tech,Computer Science,6.48,yes,10,"SQL, Java, C++",Six Sigma,Manufacturing,Backend Developer
+B.Tech,Electrical,5.3,no,9,"VHDL, Embedded Systems, Circuit Design",Data Science Certificate,IT,Electrical Engineer
+B.Sc,Mechanical,7.6,yes,1,"SolidWorks, Thermodynamics, AutoCAD, MATLAB",PMP,IT,Manufacturing Engineer
+M.Sc,Finance,5.81,no,10,"Excel, Financial Modeling",None,Education,Investment Banker
+M.Tech,Economics,7.23,yes,9,"Python, Statistics, R, Data Analysis, Econometrics",Data Science Certificate,Education,Economist
+M.Sc,Economics,9.81,yes,0,"Python, R, Econometrics, Statistics",PMP,Finance,Business Analyst
+M.Sc,Computer Science,9.57,yes,5,"Python, Machine Learning",AWS Certified,Education,Data Scientist
+B.Sc,Mechanical,9.4,yes,6,"Thermodynamics, SolidWorks, MATLAB, AutoCAD",AWS Certified,Education,Mechanical Engineer
+M.Sc,Mechanical,6.09,no,10,"AutoCAD, MATLAB, Thermodynamics",Six Sigma,Manufacturing,Design Engineer
+B.Tech,Mechanical,9.12,no,8,"MATLAB, SolidWorks, Thermodynamics, AutoCAD",None,Manufacturing,Manufacturing Engineer
+M.Tech,Economics,5.57,yes,4,"Econometrics, Statistics, Python, R, Data Analysis",Six Sigma,IT,Business Analyst
+M.Sc,Finance,6.34,no,10,"Risk Analysis, Financial Modeling, SQL, Accounting, Excel",Data Science Certificate,Education,Accountant
+B.Tech,Economics,5.83,no,3,"Statistics, R, Python",AWS Certified,Finance,Data Analyst
+MBA,Mechanical,9.26,yes,9,"AutoCAD, MATLAB, SolidWorks, Thermodynamics",AWS Certified,Finance,Design Engineer
+B.Sc,Mechanical,6.39,no,2,"AutoCAD, SolidWorks, MATLAB",Data Science Certificate,Education,Mechanical Engineer
+M.Tech,Computer Science,6.43,no,4,"C++, SQL, Java",AWS Certified,Manufacturing,Backend Developer
+M.Sc,Computer Science,7.54,yes,8,"Java, Python, SQL",None,Education,Software Engineer
+B.Sc,Computer Science,7.47,yes,1,"Java, Python, SQL, C++, Machine Learning",None,Manufacturing,Software Engineer
+B.Sc,Finance,5.86,yes,9,"SQL, Excel, Financial Modeling, Risk Analysis, Accounting",None,Education,Financial Analyst
+B.Sc,Electrical,9.67,yes,3,"Embedded Systems, MATLAB, Circuit Design, VHDL",Six Sigma,Manufacturing,Electrical Engineer
+B.Tech,Economics,6.08,yes,7,"Python, R, Data Analysis, Statistics, Econometrics",None,Finance,Data Analyst
+M.Tech,Mechanical,6.8,yes,7,"Thermodynamics, SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Finance,Design Engineer
+B.Tech,Electrical,5.36,yes,8,"Circuit Design, Embedded Systems, VHDL, C",PMP,Finance,Embedded Systems Engineer
+B.Tech,Computer Science,5.82,no,4,"Machine Learning, C++, Python, SQL",Data Science Certificate,IT,Software Engineer
+M.Tech,Finance,8.15,no,8,"Excel, Financial Modeling, SQL",Six Sigma,Manufacturing,Financial Analyst
+B.Sc,Finance,7.69,yes,7,"Excel, Risk Analysis",None,Manufacturing,Investment Banker
+MBA,Finance,7.61,no,2,"Excel, Risk Analysis, Accounting, Financial Modeling, SQL",Six Sigma,Education,Investment Banker
+B.Sc,Electrical,6.0,yes,8,"Embedded Systems, VHDL, C",Six Sigma,Research,Electronics Engineer
+M.Sc,Finance,6.61,yes,8,"Financial Modeling, SQL",PMP,IT,Financial Analyst
+B.Tech,Electrical,8.29,no,1,"C, Embedded Systems, Circuit Design",AWS Certified,Education,Electronics Engineer
+M.Sc,Computer Science,7.39,no,5,"Machine Learning, SQL, C++",PMP,Education,Backend Developer
+MBA,Finance,6.54,no,9,"Accounting, SQL, Excel, Financial Modeling, Risk Analysis",AWS Certified,IT,Investment Banker
+B.Sc,Computer Science,7.16,yes,4,"Machine Learning, C++, SQL",PMP,Education,Data Scientist
+M.Sc,Economics,6.88,no,0,"Python, Statistics, Econometrics",PMP,Research,Economist
+B.Tech,Economics,9.64,no,6,"Python, R, Econometrics",None,Finance,Economist
+MBA,Electrical,8.02,no,6,"C, Circuit Design, VHDL, MATLAB, Embedded Systems",PMP,Research,Embedded Systems Engineer
+MBA,Electrical,9.75,yes,4,"C, Circuit Design, VHDL, MATLAB",Six Sigma,Research,Embedded Systems Engineer
+MBA,Computer Science,8.25,yes,10,"SQL, Java, C++",Six Sigma,Finance,Data Scientist
+M.Tech,Mechanical,6.51,yes,9,"MATLAB, Thermodynamics",Six Sigma,Manufacturing,Design Engineer
+B.Sc,Finance,7.09,yes,10,"Financial Modeling, Accounting, Risk Analysis, Excel, SQL",Data Science Certificate,Education,Financial Analyst
+MBA,Computer Science,5.05,no,5,"Machine Learning, Python",PMP,Research,Data Scientist
+B.Tech,Finance,7.95,no,8,"Financial Modeling, Excel, Risk Analysis, Accounting, SQL",Six Sigma,Finance,Financial Analyst
+MBA,Mechanical,7.08,no,9,"SolidWorks, MATLAB, Thermodynamics, AutoCAD",None,Manufacturing,Manufacturing Engineer
+M.Sc,Computer Science,6.08,no,2,"Java, Machine Learning, C++, Python",Six Sigma,Research,Backend Developer
+B.Sc,Electrical,5.02,yes,7,"Circuit Design, C, MATLAB",Data Science Certificate,Manufacturing,Embedded Systems Engineer
+M.Sc,Electrical,7.13,yes,10,"MATLAB, C, Circuit Design, Embedded Systems, VHDL",PMP,Manufacturing,Electronics Engineer
+MBA,Mechanical,5.54,yes,7,"Thermodynamics, AutoCAD, MATLAB",Six Sigma,Finance,Manufacturing Engineer
+MBA,Mechanical,6.29,no,0,"Thermodynamics, SolidWorks, MATLAB",PMP,Finance,Design Engineer
+B.Sc,Computer Science,9.44,yes,8,"SQL, Python, Machine Learning",None,Research,Software Engineer
+M.Sc,Mechanical,7.17,no,2,"Thermodynamics, SolidWorks, MATLAB",Six Sigma,Finance,Mechanical Engineer
+MBA,Mechanical,8.64,yes,4,"SolidWorks, AutoCAD",Data Science Certificate,Finance,Manufacturing Engineer
+MBA,Economics,8.55,no,7,"Data Analysis, Python, Econometrics",None,Manufacturing,Data Analyst
+B.Sc,Finance,6.03,no,0,"Financial Modeling, Risk Analysis, Accounting, Excel, SQL",Six Sigma,Finance,Accountant
+M.Tech,Finance,7.04,yes,9,"Risk Analysis, SQL, Excel",Data Science Certificate,Finance,Financial Analyst
+B.Tech,Finance,8.69,no,9,"Accounting, Financial Modeling, Risk Analysis",Six Sigma,Research,Financial Analyst
+M.Sc,Computer Science,8.55,no,5,"C++, Python, Java, SQL, Machine Learning",Data Science Certificate,Finance,Software Engineer
+M.Sc,Economics,7.21,no,10,"Python, Statistics, R",Six Sigma,Education,Business Analyst
+B.Sc,Economics,9.25,yes,7,"Data Analysis, R, Python, Statistics",AWS Certified,Research,Economist
+M.Sc,Finance,8.12,no,9,"Risk Analysis, Financial Modeling, Excel",None,Education,Accountant
+M.Tech,Electrical,7.66,yes,5,"Embedded Systems, Circuit Design, MATLAB, VHDL, C",Six Sigma,IT,Embedded Systems Engineer
+B.Sc,Electrical,6.93,yes,1,"C, MATLAB",Data Science Certificate,Education,Electrical Engineer
+B.Tech,Computer Science,9.12,no,8,"SQL, Java, Machine Learning, C++, Python",None,Manufacturing,Software Engineer
+M.Sc,Mechanical,9.95,no,0,"Thermodynamics, SolidWorks",AWS Certified,Manufacturing,Manufacturing Engineer
+MBA,Mechanical,7.73,yes,8,"SolidWorks, Thermodynamics, AutoCAD, MATLAB",AWS Certified,Research,Manufacturing Engineer
+M.Tech,Mechanical,9.22,yes,10,"AutoCAD, MATLAB",AWS Certified,Education,Mechanical Engineer
+M.Sc,Economics,6.89,no,2,"Python, Data Analysis, R",Data Science Certificate,Finance,Data Analyst
+MBA,Finance,5.47,no,1,"Accounting, Excel",PMP,Education,Financial Analyst
+B.Sc,Mechanical,7.29,yes,10,"Thermodynamics, SolidWorks, MATLAB",None,IT,Mechanical Engineer
+M.Sc,Mechanical,8.91,no,4,"SolidWorks, MATLAB, AutoCAD",PMP,Research,Mechanical Engineer
+M.Tech,Mechanical,5.34,no,9,"Thermodynamics, SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Research,Manufacturing Engineer
+B.Tech,Finance,5.19,no,5,"Risk Analysis, Financial Modeling, Excel, Accounting",PMP,Manufacturing,Financial Analyst
+M.Sc,Computer Science,5.94,no,4,"SQL, Machine Learning",Data Science Certificate,Finance,Backend Developer
+M.Sc,Electrical,6.82,no,3,"Embedded Systems, VHDL, Circuit Design, MATLAB, C",None,Finance,Electronics Engineer
+MBA,Computer Science,8.42,yes,2,"SQL, Python, Java, C++",None,Manufacturing,Software Engineer
+M.Tech,Economics,6.89,no,10,"Data Analysis, R, Statistics",Data Science Certificate,Education,Business Analyst
+M.Sc,Mechanical,8.43,no,9,"SolidWorks, MATLAB",Six Sigma,Finance,Manufacturing Engineer
+MBA,Computer Science,8.01,yes,9,"Python, Java, Machine Learning",AWS Certified,Education,Backend Developer
+B.Tech,Finance,7.97,yes,4,"SQL, Accounting, Risk Analysis, Excel",PMP,Finance,Accountant
+M.Tech,Electrical,7.84,yes,10,"Circuit Design, Embedded Systems, MATLAB, C",PMP,Finance,Electrical Engineer
+B.Sc,Electrical,7.23,no,2,"Circuit Design, VHDL",PMP,Finance,Embedded Systems Engineer
+B.Tech,Electrical,6.8,no,2,"Embedded Systems, VHDL, Circuit Design, C",AWS Certified,IT,Electronics Engineer
+B.Tech,Mechanical,8.97,yes,7,"MATLAB, Thermodynamics, SolidWorks",None,Manufacturing,Design Engineer
+M.Sc,Computer Science,8.99,yes,9,"Java, C++, SQL, Machine Learning",Data Science Certificate,IT,Data Scientist
+B.Sc,Electrical,9.88,yes,4,"C, Embedded Systems, Circuit Design",PMP,Finance,Electrical Engineer
+M.Sc,Computer Science,9.5,no,2,"C++, Java, Machine Learning, SQL, Python",None,Research,Backend Developer
+M.Sc,Finance,6.11,yes,10,"Risk Analysis, Accounting",PMP,Education,Accountant
+B.Sc,Computer Science,8.68,yes,5,"Python, SQL",PMP,Research,Backend Developer
+M.Sc,Computer Science,5.39,yes,5,"Java, Python",None,IT,Software Engineer
+M.Sc,Computer Science,6.49,yes,7,"SQL, Python, C++, Machine Learning",Data Science Certificate,IT,Backend Developer
+B.Sc,Mechanical,6.18,yes,5,"Thermodynamics, SolidWorks, AutoCAD",Six Sigma,IT,Design Engineer
+M.Sc,Mechanical,9.25,yes,4,"MATLAB, SolidWorks, Thermodynamics",Six Sigma,Research,Design Engineer
+MBA,Mechanical,5.0,yes,1,"Thermodynamics, SolidWorks",AWS Certified,Education,Manufacturing Engineer
+B.Sc,Economics,9.58,yes,4,"Econometrics, R, Python, Statistics",AWS Certified,Manufacturing,Business Analyst
+MBA,Finance,6.43,no,9,"Excel, Risk Analysis, Financial Modeling",None,Manufacturing,Investment Banker
+B.Sc,Computer Science,8.32,no,4,"SQL, Machine Learning, Python, Java",Data Science Certificate,Research,Data Scientist
+B.Tech,Mechanical,8.11,no,9,"Thermodynamics, AutoCAD, SolidWorks",PMP,Research,Design Engineer
+B.Tech,Finance,8.21,yes,8,"SQL, Accounting, Excel, Risk Analysis, Financial Modeling",Six Sigma,Research,Investment Banker
+MBA,Electrical,9.38,no,6,"Circuit Design, MATLAB, Embedded Systems, C",None,IT,Electrical Engineer
+B.Tech,Electrical,6.05,yes,0,"VHDL, MATLAB, Embedded Systems, Circuit Design, C",None,Finance,Electrical Engineer
+B.Tech,Economics,6.07,yes,5,"Python, Statistics, R, Econometrics",Data Science Certificate,Education,Economist
+M.Tech,Mechanical,5.45,no,6,"Thermodynamics, MATLAB, SolidWorks, AutoCAD",Data Science Certificate,Finance,Mechanical Engineer
+M.Sc,Computer Science,5.71,no,3,"Machine Learning, SQL, Python",PMP,Finance,Backend Developer
+MBA,Finance,6.36,no,10,"Accounting, SQL, Risk Analysis",Six Sigma,Finance,Investment Banker
+B.Tech,Electrical,9.29,yes,4,"VHDL, MATLAB, C",Six Sigma,IT,Embedded Systems Engineer
+M.Sc,Finance,7.2,yes,10,"Accounting, Risk Analysis, Excel",AWS Certified,Education,Accountant
+M.Tech,Finance,5.09,yes,9,"Accounting, Risk Analysis",None,IT,Accountant
+M.Sc,Electrical,9.51,yes,9,"MATLAB, C, VHDL, Embedded Systems, Circuit Design",None,Manufacturing,Electronics Engineer
+B.Tech,Mechanical,5.32,no,8,"SolidWorks, AutoCAD, Thermodynamics",Six Sigma,Manufacturing,Design Engineer
+MBA,Mechanical,7.95,no,8,"MATLAB, Thermodynamics",AWS Certified,Research,Mechanical Engineer
+B.Sc,Electrical,9.98,no,9,"C, Embedded Systems, Circuit Design, VHDL, MATLAB",Six Sigma,Education,Electronics Engineer
+B.Sc,Electrical,5.35,no,6,"Circuit Design, MATLAB",PMP,Finance,Embedded Systems Engineer
+B.Tech,Computer Science,5.8,yes,6,"Python, Java",None,Finance,Data Scientist
+B.Sc,Economics,9.8,no,8,"R, Econometrics, Statistics, Data Analysis, Python",Data Science Certificate,Finance,Data Analyst
+B.Tech,Electrical,8.94,yes,3,"Circuit Design, C, Embedded Systems",PMP,IT,Electrical Engineer
+M.Tech,Computer Science,9.83,yes,8,"Java, Machine Learning, Python, C++",Six Sigma,IT,Backend Developer
+B.Tech,Finance,7.1,no,5,"SQL, Accounting, Financial Modeling, Excel",None,Education,Accountant
+M.Sc,Computer Science,5.38,no,8,"SQL, Java",Data Science Certificate,Education,Data Scientist
+M.Sc,Economics,7.6,yes,8,"Econometrics, Python, R, Data Analysis, Statistics",None,Education,Business Analyst
+MBA,Computer Science,7.94,no,1,"Python, Java, Machine Learning",PMP,Education,Data Scientist
+B.Tech,Finance,6.48,yes,7,"Excel, SQL, Risk Analysis",Six Sigma,Finance,Accountant
+M.Sc,Economics,5.57,no,7,"Econometrics, Python, Statistics",PMP,IT,Economist
+M.Sc,Finance,8.91,yes,10,"Financial Modeling, SQL, Risk Analysis, Accounting",PMP,Finance,Accountant
+M.Sc,Electrical,8.9,yes,0,"Embedded Systems, Circuit Design, MATLAB, C",Data Science Certificate,Education,Embedded Systems Engineer
+MBA,Computer Science,8.0,yes,7,"C++, Machine Learning, SQL",Data Science Certificate,Finance,Software Engineer
+M.Tech,Economics,8.11,no,5,"Data Analysis, Econometrics, R, Statistics, Python",AWS Certified,Manufacturing,Economist
+B.Tech,Finance,9.25,no,9,"Excel, SQL, Risk Analysis, Financial Modeling, Accounting",Data Science Certificate,Manufacturing,Accountant
+MBA,Computer Science,8.57,yes,7,"Machine Learning, C++, Java, Python",Six Sigma,Education,Software Engineer
+MBA,Finance,9.63,yes,6,"Financial Modeling, Accounting, Excel, SQL, Risk Analysis",AWS Certified,Manufacturing,Accountant
+M.Sc,Finance,5.8,yes,4,"Excel, Accounting, SQL, Financial Modeling",None,IT,Financial Analyst
+B.Sc,Finance,5.77,no,8,"Risk Analysis, Accounting, Financial Modeling, Excel",PMP,Manufacturing,Accountant
+B.Sc,Finance,7.0,no,9,"Accounting, Financial Modeling, Risk Analysis, SQL",AWS Certified,IT,Accountant
+B.Sc,Economics,6.35,no,1,"Data Analysis, Python, Statistics, Econometrics, R",Six Sigma,Research,Business Analyst
+B.Sc,Computer Science,7.56,yes,3,"C++, Java, Python, Machine Learning",Data Science Certificate,Manufacturing,Data Scientist
+M.Tech,Economics,5.99,yes,4,"Statistics, Econometrics, Python, Data Analysis",AWS Certified,IT,Economist
+MBA,Finance,6.57,no,4,"Accounting, Financial Modeling, Excel",Data Science Certificate,Finance,Investment Banker
+M.Sc,Economics,8.66,no,5,"Econometrics, Python, Statistics, R",PMP,Manufacturing,Economist
+MBA,Economics,7.98,no,10,"Python, Statistics, Data Analysis",None,IT,Economist
+B.Tech,Mechanical,8.4,yes,9,"MATLAB, Thermodynamics, SolidWorks",PMP,Manufacturing,Mechanical Engineer
+M.Sc,Computer Science,8.56,yes,8,"SQL, C++, Machine Learning",Data Science Certificate,Finance,Backend Developer
+MBA,Electrical,7.63,no,7,"Circuit Design, C, Embedded Systems",Six Sigma,Education,Electrical Engineer
+B.Tech,Electrical,9.19,yes,2,"MATLAB, VHDL, C, Circuit Design",AWS Certified,Finance,Electrical Engineer
+MBA,Computer Science,9.13,yes,3,"Machine Learning, Java, Python",Six Sigma,Finance,Backend Developer
+M.Sc,Economics,5.64,no,2,"Python, R",PMP,Education,Business Analyst
+MBA,Mechanical,5.92,yes,7,"SolidWorks, Thermodynamics, MATLAB, AutoCAD",None,Research,Mechanical Engineer
+M.Sc,Electrical,6.54,yes,8,"MATLAB, Circuit Design, Embedded Systems",PMP,Manufacturing,Electrical Engineer
+M.Sc,Mechanical,9.79,no,9,"AutoCAD, SolidWorks",PMP,Research,Mechanical Engineer
+B.Sc,Electrical,5.77,no,2,"VHDL, Circuit Design",Six Sigma,Research,Embedded Systems Engineer
+MBA,Mechanical,6.02,no,7,"Thermodynamics, AutoCAD, SolidWorks",None,Research,Design Engineer
+B.Sc,Finance,8.37,no,0,"Risk Analysis, Financial Modeling, SQL, Excel",AWS Certified,Education,Accountant
+MBA,Computer Science,8.92,yes,7,"SQL, Java",AWS Certified,Education,Data Scientist
+M.Sc,Electrical,7.27,no,7,"VHDL, Embedded Systems, C, Circuit Design",PMP,Research,Embedded Systems Engineer
+M.Tech,Computer Science,5.76,no,8,"Python, C++, SQL",Data Science Certificate,IT,Backend Developer
+B.Tech,Finance,8.06,no,5,"SQL, Excel, Accounting, Financial Modeling",None,Finance,Accountant
+M.Sc,Mechanical,8.18,no,7,"MATLAB, Thermodynamics, AutoCAD",AWS Certified,Manufacturing,Mechanical Engineer
+MBA,Finance,9.86,no,3,"Financial Modeling, SQL, Accounting, Excel",Data Science Certificate,IT,Financial Analyst
+B.Sc,Electrical,5.34,no,4,"C, Circuit Design, Embedded Systems, MATLAB",PMP,Education,Electronics Engineer
+B.Sc,Finance,9.28,yes,0,"SQL, Risk Analysis",None,Manufacturing,Accountant
+B.Sc,Economics,9.56,no,6,"R, Statistics",Six Sigma,Manufacturing,Economist
+M.Tech,Computer Science,5.61,no,10,"SQL, Python, C++, Java, Machine Learning",PMP,Education,Backend Developer
+B.Sc,Mechanical,9.59,yes,1,"SolidWorks, AutoCAD",AWS Certified,Manufacturing,Design Engineer
+B.Tech,Economics,6.89,no,3,"Statistics, Econometrics, Data Analysis, Python",Six Sigma,Manufacturing,Business Analyst
+B.Sc,Mechanical,5.31,yes,0,"MATLAB, AutoCAD",PMP,Research,Design Engineer
+M.Tech,Electrical,8.0,yes,3,"C, MATLAB",Data Science Certificate,IT,Embedded Systems Engineer
+M.Sc,Computer Science,7.77,no,2,"C++, SQL, Python, Machine Learning",PMP,Education,Backend Developer
+M.Sc,Electrical,6.23,yes,2,"C, Embedded Systems, VHDL, MATLAB",AWS Certified,Education,Electronics Engineer
+M.Sc,Economics,5.11,yes,5,"Econometrics, R, Statistics",PMP,Education,Business Analyst
+B.Sc,Computer Science,7.46,no,1,"C++, SQL, Python, Java",Six Sigma,Manufacturing,Backend Developer
+MBA,Economics,6.12,no,10,"Econometrics, Python, Data Analysis",Six Sigma,Finance,Economist
+M.Sc,Electrical,5.7,no,8,"C, MATLAB, Embedded Systems",None,Finance,Electronics Engineer
+MBA,Finance,9.56,yes,8,"Excel, Risk Analysis",PMP,Manufacturing,Financial Analyst
+MBA,Electrical,5.47,no,5,"C, MATLAB",None,Education,Electronics Engineer
+M.Sc,Finance,6.94,no,9,"Financial Modeling, Risk Analysis, SQL",Six Sigma,IT,Financial Analyst
+M.Sc,Electrical,8.08,no,0,"Embedded Systems, C, MATLAB, Circuit Design",AWS Certified,Research,Electrical Engineer
+M.Sc,Economics,7.81,yes,10,"Statistics, Python, Econometrics, Data Analysis",Six Sigma,Education,Business Analyst
+B.Sc,Economics,8.57,no,2,"R, Statistics, Python, Data Analysis",PMP,IT,Data Analyst
+B.Sc,Finance,8.15,no,3,"Risk Analysis, SQL, Financial Modeling",Data Science Certificate,IT,Financial Analyst
+M.Tech,Electrical,7.35,yes,8,"MATLAB, VHDL, C",Data Science Certificate,Manufacturing,Electronics Engineer
+M.Sc,Finance,9.48,yes,3,"Accounting, Financial Modeling",Six Sigma,Education,Financial Analyst
+MBA,Economics,9.17,yes,3,"Data Analysis, Python, Statistics, Econometrics",Data Science Certificate,IT,Economist
+M.Sc,Economics,7.16,yes,9,"Data Analysis, Python, Statistics, Econometrics",AWS Certified,IT,Economist
+MBA,Computer Science,9.71,yes,5,"Java, Machine Learning, C++",Data Science Certificate,Education,Backend Developer
+B.Sc,Computer Science,8.55,yes,1,"Python, Java, SQL, Machine Learning, C++",AWS Certified,IT,Data Scientist
+M.Tech,Electrical,9.8,no,6,"C, MATLAB",Six Sigma,Finance,Electronics Engineer
+M.Tech,Economics,8.48,no,0,"Econometrics, Statistics, Data Analysis",None,Research,Data Analyst
+B.Sc,Finance,6.51,yes,3,"Financial Modeling, SQL, Excel, Accounting, Risk Analysis",PMP,Manufacturing,Accountant
+M.Sc,Economics,7.09,no,7,"Python, Econometrics, Statistics, R",AWS Certified,IT,Data Analyst
+B.Tech,Electrical,9.65,yes,9,"VHDL, Circuit Design, Embedded Systems, C",AWS Certified,Finance,Embedded Systems Engineer
+M.Tech,Mechanical,7.29,yes,5,"Thermodynamics, MATLAB, AutoCAD",AWS Certified,Manufacturing,Design Engineer
+B.Sc,Mechanical,8.14,no,8,"AutoCAD, MATLAB, SolidWorks, Thermodynamics",Data Science Certificate,Education,Mechanical Engineer
+M.Tech,Computer Science,10.0,yes,0,"C++, Machine Learning, SQL, Java",Data Science Certificate,Manufacturing,Software Engineer
+M.Sc,Economics,8.56,no,1,"R, Statistics, Python",Six Sigma,Manufacturing,Data Analyst
+B.Sc,Mechanical,7.18,no,2,"MATLAB, AutoCAD, Thermodynamics, SolidWorks",AWS Certified,IT,Design Engineer
+M.Tech,Finance,9.62,yes,4,"Financial Modeling, Excel",AWS Certified,Education,Accountant
+B.Sc,Computer Science,6.87,no,0,"SQL, Java, C++, Python",Data Science Certificate,Research,Backend Developer
+B.Tech,Electrical,9.84,yes,2,"Circuit Design, Embedded Systems",Data Science Certificate,IT,Electrical Engineer
+M.Tech,Mechanical,9.52,no,0,"AutoCAD, MATLAB, SolidWorks",AWS Certified,Finance,Manufacturing Engineer
+MBA,Mechanical,9.76,no,7,"MATLAB, AutoCAD, SolidWorks, Thermodynamics",PMP,Research,Manufacturing Engineer
+M.Sc,Computer Science,9.11,yes,0,"SQL, Java, Python, Machine Learning, C++",Data Science Certificate,IT,Software Engineer
+M.Tech,Computer Science,8.76,yes,2,"Python, Machine Learning, Java",Data Science Certificate,Research,Data Scientist
+B.Tech,Mechanical,8.27,yes,4,"Thermodynamics, MATLAB, AutoCAD, SolidWorks",Six Sigma,Manufacturing,Design Engineer
+M.Tech,Computer Science,8.02,no,0,"Machine Learning, SQL",Six Sigma,Manufacturing,Software Engineer
+M.Sc,Economics,8.61,yes,5,"Data Analysis, R",Data Science Certificate,IT,Business Analyst
+MBA,Economics,7.98,yes,9,"R, Data Analysis",Data Science Certificate,IT,Economist
+MBA,Finance,9.71,no,2,"SQL, Accounting, Excel",None,Manufacturing,Investment Banker
+MBA,Economics,8.65,no,5,"R, Statistics, Data Analysis",Data Science Certificate,Research,Economist
+MBA,Electrical,9.75,yes,0,"C, MATLAB, Embedded Systems",AWS Certified,Manufacturing,Embedded Systems Engineer
+B.Sc,Mechanical,7.83,yes,7,"SolidWorks, AutoCAD, Thermodynamics",PMP,Education,Manufacturing Engineer
+B.Sc,Computer Science,7.05,yes,5,"C++, Machine Learning, SQL, Java, Python",PMP,IT,Data Scientist
+M.Sc,Electrical,9.62,no,4,"VHDL, Circuit Design, MATLAB, Embedded Systems, C",Data Science Certificate,Manufacturing,Electrical Engineer
+MBA,Mechanical,8.14,yes,2,"SolidWorks, MATLAB, Thermodynamics",PMP,IT,Mechanical Engineer
+M.Sc,Computer Science,6.89,yes,9,"C++, Java, Python, SQL, Machine Learning",AWS Certified,Finance,Software Engineer
+B.Tech,Economics,9.76,yes,4,"R, Python, Data Analysis",PMP,IT,Data Analyst
+B.Sc,Finance,9.16,yes,5,"SQL, Accounting, Excel, Financial Modeling, Risk Analysis",None,Research,Accountant
+B.Sc,Electrical,5.63,yes,2,"C, MATLAB, VHDL, Circuit Design, Embedded Systems",None,Education,Electrical Engineer
+B.Sc,Economics,9.97,yes,5,"R, Data Analysis, Python, Statistics",AWS Certified,Manufacturing,Economist
+M.Tech,Computer Science,8.01,yes,5,"Python, SQL, Machine Learning, Java, C++",AWS Certified,IT,Software Engineer
+B.Tech,Finance,9.13,yes,8,"Accounting, Excel, SQL, Financial Modeling, Risk Analysis",Data Science Certificate,Education,Accountant
+B.Tech,Mechanical,8.84,yes,0,"SolidWorks, AutoCAD, MATLAB",Data Science Certificate,Manufacturing,Design Engineer
+B.Tech,Computer Science,8.08,no,6,"Java, SQL, Python",Six Sigma,Finance,Data Scientist
+M.Tech,Economics,6.2,no,2,"Python, Econometrics, Statistics, Data Analysis",Data Science Certificate,Finance,Data Analyst
+M.Sc,Economics,7.81,no,2,"Python, Statistics",Data Science Certificate,Manufacturing,Economist
+MBA,Mechanical,6.2,no,4,"SolidWorks, AutoCAD, MATLAB, Thermodynamics",Data Science Certificate,Manufacturing,Design Engineer
+B.Sc,Mechanical,5.48,no,5,"MATLAB, AutoCAD",Data Science Certificate,Education,Design Engineer
+B.Sc,Finance,9.97,no,9,"Excel, Financial Modeling, Accounting",Data Science Certificate,IT,Financial Analyst
+B.Tech,Electrical,9.38,yes,8,"VHDL, Circuit Design",Six Sigma,Education,Embedded Systems Engineer
+B.Tech,Electrical,7.19,yes,4,"C, VHDL, MATLAB, Circuit Design",Data Science Certificate,Research,Electronics Engineer
+MBA,Economics,7.0,no,10,"Data Analysis, Econometrics, Statistics",Six Sigma,Finance,Economist
+M.Tech,Computer Science,5.18,yes,2,"Java, SQL, C++, Python, Machine Learning",None,IT,Data Scientist
+B.Sc,Electrical,5.36,yes,2,"VHDL, C, MATLAB, Embedded Systems, Circuit Design",Data Science Certificate,Research,Embedded Systems Engineer
+MBA,Electrical,8.38,no,5,"MATLAB, Circuit Design, VHDL, Embedded Systems, C",None,Manufacturing,Electrical Engineer
+B.Sc,Mechanical,7.33,yes,6,"AutoCAD, MATLAB, SolidWorks, Thermodynamics",PMP,Education,Design Engineer
+MBA,Electrical,7.66,no,0,"Embedded Systems, VHDL",Data Science Certificate,Finance,Electronics Engineer
+MBA,Finance,9.51,yes,3,"Financial Modeling, Accounting, Excel, SQL",AWS Certified,Manufacturing,Financial Analyst
+B.Sc,Finance,7.09,yes,8,"Financial Modeling, Excel, SQL, Risk Analysis",Six Sigma,Education,Financial Analyst
+MBA,Electrical,8.75,yes,10,"Embedded Systems, Circuit Design",Six Sigma,Education,Electrical Engineer
+B.Sc,Electrical,9.05,no,9,"VHDL, MATLAB, C, Circuit Design, Embedded Systems",PMP,Education,Embedded Systems Engineer
+B.Tech,Economics,8.66,no,7,"Statistics, Python, Econometrics",Six Sigma,Research,Economist
+B.Sc,Economics,5.36,yes,5,"Data Analysis, R, Python",None,IT,Data Analyst
+M.Tech,Finance,9.18,no,0,"Accounting, Financial Modeling, SQL",Six Sigma,IT,Accountant
+M.Tech,Economics,9.53,no,2,"Statistics, Econometrics, R",Data Science Certificate,IT,Economist
+MBA,Finance,7.81,yes,3,"Financial Modeling, Excel, Risk Analysis, Accounting, SQL",None,Education,Financial Analyst
+M.Sc,Electrical,8.38,yes,5,"C, Circuit Design",None,Education,Electronics Engineer
+B.Tech,Electrical,9.71,yes,9,"Circuit Design, VHDL, Embedded Systems, C",AWS Certified,Education,Embedded Systems Engineer
+B.Tech,Finance,6.03,no,4,"Accounting, Excel",AWS Certified,Finance,Accountant
+MBA,Economics,9.12,yes,2,"R, Data Analysis",PMP,Education,Data Analyst
+MBA,Economics,5.6,no,7,"Statistics, Econometrics, R",Data Science Certificate,Research,Business Analyst
+M.Sc,Electrical,8.87,no,10,"Embedded Systems, MATLAB, Circuit Design, C, VHDL",None,Manufacturing,Electronics Engineer
+M.Sc,Electrical,9.16,no,10,"Circuit Design, C, MATLAB",Data Science Certificate,Education,Embedded Systems Engineer
+M.Sc,Electrical,9.63,no,5,"Circuit Design, VHDL, Embedded Systems, MATLAB, C",AWS Certified,Research,Electronics Engineer
+B.Tech,Economics,7.02,no,1,"R, Statistics, Python, Data Analysis, Econometrics",None,Research,Business Analyst
+M.Sc,Finance,8.1,yes,2,"SQL, Financial Modeling, Excel, Accounting",PMP,Education,Financial Analyst
+M.Sc,Economics,7.34,yes,7,"Statistics, Econometrics, Data Analysis, R",Data Science Certificate,Research,Business Analyst
+M.Tech,Mechanical,6.87,yes,3,"AutoCAD, MATLAB",Data Science Certificate,IT,Design Engineer
+MBA,Computer Science,7.93,yes,4,"C++, Java, Python",PMP,Manufacturing,Backend Developer
+M.Tech,Mechanical,7.35,no,0,"Thermodynamics, MATLAB",AWS Certified,Research,Manufacturing Engineer
+B.Tech,Finance,6.96,yes,3,"Accounting, Financial Modeling",Data Science Certificate,Education,Financial Analyst
+M.Sc,Finance,5.44,no,2,"Risk Analysis, SQL, Excel",PMP,Manufacturing,Financial Analyst
+B.Sc,Finance,5.75,yes,1,"Accounting, Excel, Risk Analysis",PMP,Manufacturing,Financial Analyst
+M.Sc,Mechanical,8.48,yes,2,"Thermodynamics, MATLAB, SolidWorks",Data Science Certificate,Research,Design Engineer
+M.Sc,Computer Science,8.71,no,0,"SQL, C++, Machine Learning",Data Science Certificate,IT,Backend Developer
+M.Tech,Mechanical,9.79,no,8,"MATLAB, Thermodynamics",None,IT,Design Engineer
+M.Sc,Electrical,8.6,yes,8,"Embedded Systems, C, Circuit Design, VHDL, MATLAB",Six Sigma,Research,Electrical Engineer
+M.Sc,Economics,9.04,yes,5,"Statistics, Python, R, Data Analysis",AWS Certified,IT,Data Analyst
+B.Sc,Mechanical,8.18,yes,7,"Thermodynamics, MATLAB, SolidWorks",AWS Certified,Education,Manufacturing Engineer
+MBA,Economics,6.25,yes,8,"Statistics, R",Six Sigma,Education,Data Analyst
+B.Sc,Finance,7.67,no,1,"Financial Modeling, Excel, Risk Analysis, SQL",AWS Certified,Education,Investment Banker
+M.Sc,Mechanical,5.14,yes,10,"AutoCAD, Thermodynamics",PMP,Education,Manufacturing Engineer
+B.Sc,Electrical,9.2,yes,5,"Embedded Systems, MATLAB, VHDL, Circuit Design",None,Research,Electronics Engineer
+B.Sc,Finance,8.64,no,10,"SQL, Excel, Risk Analysis",Six Sigma,IT,Investment Banker
+M.Tech,Mechanical,8.35,yes,3,"Thermodynamics, SolidWorks",AWS Certified,Finance,Manufacturing Engineer
+B.Tech,Computer Science,6.46,yes,0,"Machine Learning, Python, Java",Data Science Certificate,Manufacturing,Backend Developer
+M.Tech,Mechanical,5.89,yes,3,"SolidWorks, Thermodynamics, MATLAB, AutoCAD",None,Manufacturing,Manufacturing Engineer
+B.Tech,Economics,5.02,yes,5,"Statistics, Python, R",PMP,Finance,Business Analyst
+M.Sc,Finance,7.16,yes,10,"Risk Analysis, SQL, Financial Modeling, Accounting",AWS Certified,IT,Investment Banker
+MBA,Mechanical,5.33,yes,1,"AutoCAD, Thermodynamics",AWS Certified,Manufacturing,Mechanical Engineer
+M.Tech,Computer Science,9.0,no,1,"C++, Machine Learning, Java, Python, SQL",Six Sigma,IT,Backend Developer
+M.Sc,Computer Science,7.36,no,5,"SQL, Python, Java, C++, Machine Learning",Six Sigma,IT,Backend Developer
+M.Tech,Finance,7.47,no,9,"Financial Modeling, Accounting, Risk Analysis, Excel",Data Science Certificate,Education,Investment Banker
+M.Sc,Economics,7.5,yes,0,"Data Analysis, Econometrics, R, Statistics, Python",None,Education,Economist
+MBA,Economics,9.12,yes,8,"Statistics, Python, R, Data Analysis",AWS Certified,Finance,Business Analyst
+MBA,Economics,6.63,yes,3,"Econometrics, R, Python",Data Science Certificate,Finance,Economist
+M.Sc,Economics,5.38,yes,3,"Econometrics, Data Analysis",PMP,Education,Economist
+B.Tech,Computer Science,9.87,yes,6,"Java, C++, Machine Learning, Python, SQL",PMP,Education,Data Scientist
+M.Sc,Electrical,7.32,yes,2,"MATLAB, Circuit Design, VHDL, C, Embedded Systems",None,Research,Electronics Engineer
+B.Sc,Finance,7.05,no,2,"Financial Modeling, Risk Analysis, Excel, SQL, Accounting",Data Science Certificate,IT,Investment Banker
+MBA,Mechanical,5.53,yes,0,"MATLAB, AutoCAD",None,Finance,Design Engineer
+MBA,Economics,7.0,yes,4,"Python, Econometrics, R, Data Analysis",PMP,Manufacturing,Business Analyst
+MBA,Mechanical,8.05,no,2,"SolidWorks, AutoCAD, MATLAB, Thermodynamics",PMP,Manufacturing,Design Engineer
+M.Tech,Computer Science,9.74,no,10,"SQL, Machine Learning, Python, C++, Java",PMP,Manufacturing,Data Scientist
+B.Sc,Electrical,8.04,no,9,"Embedded Systems, Circuit Design",AWS Certified,IT,Embedded Systems Engineer
+B.Sc,Electrical,8.19,yes,3,"Embedded Systems, Circuit Design, VHDL, C",PMP,Manufacturing,Electronics Engineer
+B.Tech,Economics,7.36,no,4,"Econometrics, Data Analysis, R",None,Manufacturing,Data Analyst
+B.Sc,Electrical,9.18,no,2,"C, Embedded Systems, VHDL, Circuit Design, MATLAB",AWS Certified,Finance,Electronics Engineer
+M.Tech,Computer Science,9.31,no,0,"C++, Java",Six Sigma,IT,Software Engineer
+B.Tech,Computer Science,7.76,no,0,"Python, Java",None,Research,Software Engineer
+B.Sc,Economics,7.39,yes,10,"R, Data Analysis, Econometrics",Data Science Certificate,Education,Data Analyst
+MBA,Electrical,9.46,yes,8,"Circuit Design, C, MATLAB, VHDL, Embedded Systems",None,Research,Electronics Engineer
+B.Tech,Electrical,5.29,yes,2,"MATLAB, Embedded Systems, VHDL, Circuit Design, C",PMP,Finance,Electronics Engineer
+MBA,Computer Science,5.87,no,3,"SQL, Java, Python, C++",Six Sigma,Manufacturing,Backend Developer
+B.Tech,Economics,8.14,no,10,"Python, R, Econometrics",None,Research,Data Analyst
+B.Sc,Computer Science,8.27,yes,7,"SQL, Python, Java, C++",PMP,Finance,Backend Developer
+B.Tech,Economics,5.58,yes,7,"R, Python, Data Analysis, Statistics",AWS Certified,IT,Business Analyst
+MBA,Finance,5.86,yes,2,"Financial Modeling, SQL, Excel, Accounting, Risk Analysis",Six Sigma,Finance,Accountant
+MBA,Electrical,7.46,yes,8,"MATLAB, C, Circuit Design, Embedded Systems",None,IT,Embedded Systems Engineer
+M.Sc,Computer Science,7.59,yes,4,"Java, SQL, Machine Learning, Python, C++",PMP,Education,Data Scientist
+M.Sc,Computer Science,5.62,no,1,"Java, Python, Machine Learning, SQL, C++",None,Research,Software Engineer
+MBA,Economics,8.16,yes,9,"R, Econometrics, Data Analysis, Python, Statistics",AWS Certified,IT,Business Analyst
+M.Tech,Finance,7.81,yes,3,"SQL, Excel, Financial Modeling, Accounting, Risk Analysis",Data Science Certificate,Finance,Financial Analyst
+B.Sc,Computer Science,8.79,no,9,"C++, SQL",None,IT,Data Scientist
+M.Sc,Mechanical,6.16,no,8,"Thermodynamics, AutoCAD, MATLAB, SolidWorks",Six Sigma,Education,Manufacturing Engineer
+B.Tech,Finance,7.38,yes,2,"Financial Modeling, Excel, SQL, Accounting",None,Manufacturing,Accountant
+MBA,Economics,9.8,yes,2,"Data Analysis, R, Statistics, Econometrics",PMP,Education,Data Analyst
+M.Sc,Finance,7.96,yes,7,"Excel, Risk Analysis, Accounting, SQL, Financial Modeling",AWS Certified,Manufacturing,Investment Banker
+B.Tech,Economics,7.88,yes,1,"R, Econometrics, Statistics",None,Finance,Data Analyst
+B.Sc,Finance,5.97,yes,0,"SQL, Risk Analysis",None,IT,Financial Analyst
+M.Tech,Electrical,7.85,yes,2,"Circuit Design, C, Embedded Systems",Data Science Certificate,Manufacturing,Electronics Engineer
+MBA,Economics,7.38,no,2,"Statistics, Econometrics, Data Analysis, Python",PMP,Finance,Data Analyst
+B.Tech,Finance,5.99,no,2,"Risk Analysis, Accounting, Financial Modeling, Excel, SQL",Six Sigma,Finance,Accountant
+B.Tech,Electrical,9.75,yes,9,"Embedded Systems, MATLAB, Circuit Design",None,Education,Embedded Systems Engineer
+B.Sc,Finance,7.89,no,6,"SQL, Excel, Accounting, Financial Modeling",None,Education,Investment Banker
+B.Tech,Finance,7.55,no,0,"Excel, Accounting, SQL, Risk Analysis, Financial Modeling",PMP,Finance,Financial Analyst
+M.Sc,Computer Science,9.91,yes,6,"Machine Learning, SQL, Java",PMP,IT,Software Engineer
+M.Sc,Mechanical,8.52,yes,1,"SolidWorks, AutoCAD, MATLAB",None,Finance,Design Engineer
+M.Sc,Electrical,6.67,no,6,"MATLAB, VHDL, Circuit Design",PMP,Manufacturing,Electronics Engineer
+MBA,Computer Science,7.57,no,2,"Machine Learning, Python, C++, SQL",Data Science Certificate,Education,Data Scientist
+M.Tech,Mechanical,9.01,no,5,"SolidWorks, MATLAB, Thermodynamics",None,Finance,Manufacturing Engineer
+M.Sc,Finance,6.37,no,9,"Excel, SQL, Risk Analysis, Accounting, Financial Modeling",PMP,Finance,Investment Banker

@@ -1,0 +1,235 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Profile</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+  <div class="sidebar">
+  <a href="profile.html" class="active">Profile Info</a>
+  <a href="history.html">Prediction History</a>
+  <a href="prediction.html">Add New Prediction</a>
+  <button class="logout-btn" id="logoutBtn">Logout</button>
+</div>
+
+
+  
+  <div class="container">
+    <div class="card">
+      <h2>User Profile</h2>
+
+      
+      <div class="profile-box" id="profileBox">
+        <h3>Welcome!</h3>
+        <p><strong>Username:</strong> <span id="displayUsername">Loading...</span></p>
+        <p><strong>Email:</strong> <span id="displayEmail">Loading...</span></p>
+      </div>
+
+   
+      <form id="profileForm">
+        <input type="text" id="username" placeholder="Username" required>
+        <input type="text" id="degree" placeholder="Degree (e.g., B.Tech)" required>
+        <input type="text" id="specialization" placeholder="Specialization (e.g., Computer Science)" required>
+        <input type="number" step="0.01" id="cgpa" placeholder="CGPA" required>
+        <input type="number" id="graduationYear" placeholder="Year of Graduation" required>
+        <input type="text" id="skills" placeholder="Skills (comma separated)">
+        <button type="submit">Save Profile</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    // ✅ Redirect to login if not logged in
+    const email = localStorage.getItem("userEmail");
+    if (!email) {
+      alert("Please login first.");
+      window.location.href = "login.html";
+    } else {
+      document.getElementById("displayEmail").textContent = email;
+    }
+
+    // ✅ Fetch existing profile data
+    async function loadProfile() {
+      try {
+        const res = await fetch(`http://localhost:5000/profile?email=${email}`);
+        const data = await res.json();
+
+        if (res.ok && data) {
+          document.getElementById("displayUsername").textContent = data.username || "Not set";
+
+          document.getElementById("username").value = data.username || "";
+          document.getElementById("degree").value = data.degree || "";
+          document.getElementById("specialization").value = data.specialization || "";
+          document.getElementById("cgpa").value = data.cgpa || "";
+          document.getElementById("graduationYear").value = data.graduationYear || "";
+          document.getElementById("skills").value = data.skills || "";
+        } else {
+          document.getElementById("displayUsername").textContent = "Not set";
+        }
+      } catch (err) {
+        console.error("Error fetching profile:", err);
+        document.getElementById("displayUsername").textContent = "Error loading profile";
+      }
+    }
+    loadProfile();
+
+    // ✅ Save profile data
+    document.getElementById("profileForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const username = document.getElementById("username").value.trim();
+      const degree = document.getElementById("degree").value.trim();
+      const specialization = document.getElementById("specialization").value.trim();
+      const cgpa = parseFloat(document.getElementById("cgpa").value);
+      const graduationYear = parseInt(document.getElementById("graduationYear").value);
+      const skills = document.getElementById("skills").value.trim();
+
+      try {
+        const res = await fetch("http://localhost:5000/profile", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ email, username, degree, specialization, cgpa, graduationYear, skills })
+        });
+
+        const data = await res.json();
+        alert(data.message);
+        if (res.ok) {
+          document.getElementById("displayUsername").textContent = username;
+        }
+      } catch (err) {
+        alert("Error: " + err.message);
+      }
+    });
+
+    // ✅ Logout functionality
+    document.getElementById("logoutBtn").addEventListener("click", () => {
+      localStorage.removeItem("token");
+      localStorage.removeItem("userEmail");
+      window.location.href = "login.html";
+    });
+  </script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Profile</title>
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+  <div class="sidebar">
+    <a href="profile.html" class="active">Profile Info</a>
+    <a href="history.html">Prediction History</a>
+    <a href="prediction.html">Add New Prediction</a>
+    <button class="logout-btn" id="logoutBtn">Logout</button>
+  </div>
+
+  <div class="container">
+    <div class="card">
+      <h2>User Profile</h2>
+
+      <!-- Profile Info Box -->
+      <div class="profile-box" id="profileBox">
+        <h3>Welcome!</h3>
+        <p><strong>Username:</strong> <span id="displayUsername">Loading...</span></p>
+        <p><strong>Email:</strong> <span id="displayEmail">Loading...</span></p>
+      </div>
+
+      <!-- Profile Form -->
+      <form id="profileForm">
+        <input type="text" id="username" placeholder="Username" required>
+        <input type="text" id="degree" placeholder="Degree (e.g., B.Tech)" required>
+        <input type="text" id="specialization" placeholder="Specialization (e.g., Computer Science)" required>
+        <input type="number" step="0.01" id="cgpa" placeholder="CGPA" required>
+        <input type="number" id="graduationYear" placeholder="Year of Graduation" required>
+        <input type="text" id="skills" placeholder="Skills (comma separated)">
+        <button type="submit">Save Profile</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    // ✅ Check login
+    const token = localStorage.getItem("token");
+    const email = localStorage.getItem("userEmail");
+    if (!token || !email) {
+      alert("Please login first.");
+      window.location.href = "login.html";
+    } else {
+      document.getElementById("displayEmail").textContent = email;
+    }
+
+    // ✅ Fetch existing profile data
+    async function loadProfile() {
+      try {
+        const res = await fetch("http://localhost:5000/profile", {
+          headers: { "Authorization": `Bearer ${token}` }
+        });
+        const data = await res.json();
+
+        if (res.ok && data) {
+          document.getElementById("displayUsername").textContent = data.username || "Not set";
+
+          document.getElementById("username").value = data.username || "";
+          document.getElementById("degree").value = data.degree || "";
+          document.getElementById("specialization").value = data.specialization || "";
+          document.getElementById("cgpa").value = data.cgpa || "";
+          document.getElementById("graduationYear").value = data.graduationYear || "";
+          document.getElementById("skills").value = (data.skills || []).join(", ");
+        } else {
+          document.getElementById("displayUsername").textContent = "Not set";
+        }
+      } catch (err) {
+        console.error("Error fetching profile:", err);
+        document.getElementById("displayUsername").textContent = "Error loading profile";
+      }
+    }
+    loadProfile();
+
+    // ✅ Save profile data
+    document.getElementById("profileForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const username = document.getElementById("username").value.trim();
+      const degree = document.getElementById("degree").value.trim();
+      const specialization = document.getElementById("specialization").value.trim();
+      const cgpa = parseFloat(document.getElementById("cgpa").value);
+      const graduationYear = parseInt(document.getElementById("graduationYear").value);
+      const skills = document.getElementById("skills").value
+        ? document.getElementById("skills").value.split(",").map(s => s.trim())
+        : [];
+
+      try {
+        const res = await fetch("http://localhost:5000/profile", {
+          method: "POST",
+          headers: { 
+            "Content-Type": "application/json",
+            "Authorization": `Bearer ${token}`
+          },
+          body: JSON.stringify({ email, username, degree, specialization, cgpa, graduationYear, skills })
+        });
+
+        const data = await res.json();
+        alert(data.message);
+        if (res.ok) {
+          document.getElementById("displayUsername").textContent = username;
+        }
+      } catch (err) {
+        alert("Error: " + err.message);
+      }
+    });
+
+    // ✅ Logout functionality
+    document.getElementById("logoutBtn").addEventListener("click", () => {
+      localStorage.removeItem("token");
+      localStorage.removeItem("userEmail");
+      window.location.href = "login.html";
+    });
+  </script>
+</body>
+</html>
